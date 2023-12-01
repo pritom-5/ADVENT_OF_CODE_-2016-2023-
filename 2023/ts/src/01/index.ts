@@ -25,22 +25,22 @@ export default class CalibrationValue {
   updatedReplacedInput(input_value: string): string {
     console.log("original: ", input_value);
     const letter_digits_obj: Record<string, { value: [string, string] }> = {
-      on: { value: ["one", "1"] },
-      tw: { value: ["two", "2"] },
-      th: { value: ["three", "3"] },
-      fo: { value: ["four", "4"] },
-      fi: { value: ["five", "5"] },
-      si: { value: ["six", "6"] },
-      se: { value: ["seven", "7"] },
-      ei: { value: ["eight", "8"] },
-      ni: { value: ["nine", "9"] },
+      one: { value: ["one", "1"] },
+      two: { value: ["two", "2"] },
+      thr: { value: ["three", "3"] },
+      fou: { value: ["four", "4"] },
+      fiv: { value: ["five", "5"] },
+      six: { value: ["six", "6"] },
+      sev: { value: ["seven", "7"] },
+      eig: { value: ["eight", "8"] },
+      nin: { value: ["nine", "9"] },
     };
 
     // sliding window to replace value
     // @TODO
-    for (let i = 0; i < input_value.length - 1; i++) {
+    for (let i = 0; i < input_value.length - 2; i++) {
       // replace first word number
-      const slice = input_value.slice(i, i + 2);
+      const slice = input_value.slice(i, i + 3);
       if (
         !!letter_digits_obj[slice] &&
         input_value.indexOf(letter_digits_obj[slice]["value"][0]) === i

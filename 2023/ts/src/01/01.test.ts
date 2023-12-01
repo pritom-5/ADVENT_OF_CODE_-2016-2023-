@@ -23,8 +23,9 @@ abcone2threexyz
 xtwone3four
 4nineeightseven2
 zoneight234
-7pqrstsixteen`;
-const aoc_01_02_test_expected = 281;
+7pqrstsixteen
+kflkpscthreehjjgckfrfdhc3krgntwofour`;
+const aoc_01_02_test_expected = 315;
 
 describe("test CalibrationValue class 02", () => {
   it("shold give total value", () => {
