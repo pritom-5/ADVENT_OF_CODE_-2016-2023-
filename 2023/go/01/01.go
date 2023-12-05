@@ -1,8 +1,8 @@
-/**
+/*
+*
 this version is correct
 match string_number with startsWith / HasPrefix
 */
-
 package one
 
 import (

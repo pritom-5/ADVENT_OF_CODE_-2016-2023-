@@ -1,7 +1,9 @@
 package main
 
-import one "github.com/pritom-5/01"
+import two "github.com/pritom-5/aoc/02"
+
+
 
 func main() {
-	one.Main_01()
+	two.TwoMain()
 }
