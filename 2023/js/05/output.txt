@@ -1,0 +1,29 @@
+{
+  location: [
+    { location: 56, humidity: 93, no: 4 },
+    { location: 60, humidity: 56, no: 37 }
+  ],
+  humidity: [
+    { humidity: 1, temperature: 0, no: 69 },
+    { humidity: 0, temperature: 69, no: 1 }
+  ],
+  temperature: [
+    { temperature: 68, light: 64, no: 13 },
+    { temperature: 81, light: 45, no: 19 },
+    { temperature: 45, light: 77, no: 23 }
+  ],
+  light: [ { light: 18, water: 25, no: 70 }, { light: 88, water: 18, no: 7 } ],
+  water: [
+    { water: 57, fertilizer: 7, no: 4 },
+    { water: 42, fertilizer: 0, no: 7 },
+    { water: 0, fertilizer: 11, no: 42 },
+    { water: 49, fertilizer: 53, no: 8 }
+  ],
+  fertilizer: [
+    { fertilizer: 39, soil: 0, no: 15 },
+    { fertilizer: 37, soil: 52, no: 2 },
+    { fertilizer: 0, soil: 15, no: 37 }
+  ],
+  soil: [ { soil: 52, seed: 50, no: 48 }, { soil: 50, seed: 98, no: 2 } ],
+  seeds: [ 79, 14, 55, 13 ]
+}
