@@ -1,0 +1,1002 @@
+serial:  1 cards:  J3J9J 	type:   	hand_value:  1 rank_card_on_index:  [ 1, 3, 1, 9, 1 ] card_count:  { '3': 1, '9': 1 } bid:  552
+serial:  2 cards:  J47JT 	type:   	hand_value:  1 rank_card_on_index:  [ 1, 4, 7, 1, 10 ] card_count:  { '4': 1, '7': 1, T: 1 } bid:  715
+serial:  3 cards:  J5KJ8 	type:   	hand_value:  1 rank_card_on_index:  [ 1, 5, 13, 1, 8 ] card_count:  { '5': 1, '8': 1, K: 1 } bid:  909
+serial:  4 cards:  J63J8 	type:   	hand_value:  1 rank_card_on_index:  [ 1, 6, 3, 1, 8 ] card_count:  { '3': 1, '6': 1, '8': 1 } bid:  320
+serial:  5 cards:  J89TJ 	type:   	hand_value:  1 rank_card_on_index:  [ 1, 8, 9, 10, 1 ] card_count:  { '8': 1, '9': 1, T: 1 } bid:  63
+serial:  6 cards:  J9J8K 	type:   	hand_value:  1 rank_card_on_index:  [ 1, 9, 1, 8, 13 ] card_count:  { '8': 1, '9': 1, K: 1 } bid:  886
+serial:  7 cards:  JTK4J 	type:   	hand_value:  1 rank_card_on_index:  [ 1, 10, 13, 4, 1 ] card_count:  { '4': 1, K: 1, T: 1 } bid:  679
+serial:  8 cards:  24K3A 	type:   	hand_value:  2 rank_card_on_index:  [ 2, 4, 13, 3, 14 ] card_count:  { '2': 1, '3': 1, '4': 1, A: 1, K: 1 } bid:  186
+serial:  9 cards:  25QA7 	type:   	hand_value:  2 rank_card_on_index:  [ 2, 5, 12, 14, 7 ] card_count:  { '2': 1, '5': 1, '7': 1, A: 1, Q: 1 } bid:  602
+serial:  10 cards:  26T97 	type:   	hand_value:  2 rank_card_on_index:  [ 2, 6, 10, 9, 7 ] card_count:  { '2': 1, '6': 1, '7': 1, '9': 1, T: 1 } bid:  36
+serial:  11 cards:  27648 	type:   	hand_value:  2 rank_card_on_index:  [ 2, 7, 6, 4, 8 ] card_count:  { '2': 1, '4': 1, '6': 1, '7': 1, '8': 1 } bid:  18
+serial:  12 cards:  28A4Q 	type:   	hand_value:  2 rank_card_on_index:  [ 2, 8, 14, 4, 12 ] card_count:  { '2': 1, '4': 1, '8': 1, Q: 1, A: 1 } bid:  714
+serial:  13 cards:  28A6T 	type:   	hand_value:  2 rank_card_on_index:  [ 2, 8, 14, 6, 10 ] card_count:  { '2': 1, '6': 1, '8': 1, T: 1, A: 1 } bid:  887
+serial:  14 cards:  2965T 	type:   	hand_value:  2 rank_card_on_index:  [ 2, 9, 6, 5, 10 ] card_count:  { '2': 1, '5': 1, '6': 1, '9': 1, T: 1 } bid:  872
+serial:  15 cards:  2T375 	type:   	hand_value:  2 rank_card_on_index:  [ 2, 10, 3, 7, 5 ] card_count:  { '2': 1, '3': 1, '5': 1, '7': 1, T: 1 } bid:  903
+serial:  16 cards:  2K637 	type:   	hand_value:  2 rank_card_on_index:  [ 2, 13, 6, 3, 7 ] card_count:  { '2': 1, '3': 1, '6': 1, '7': 1, K: 1 } bid:  46
+serial:  17 cards:  326A7 	type:   	hand_value:  3 rank_card_on_index:  [ 3, 2, 6, 14, 7 ] card_count:  { '2': 1, '3': 1, '6': 1, '7': 1, A: 1 } bid:  546
+serial:  18 cards:  32845 	type:   	hand_value:  3 rank_card_on_index:  [ 3, 2, 8, 4, 5 ] card_count:  { '2': 1, '3': 1, '4': 1, '5': 1, '8': 1 } bid:  457
+serial:  19 cards:  32TK7 	type:   	hand_value:  3 rank_card_on_index:  [ 3, 2, 10, 13, 7 ] card_count:  { '2': 1, '3': 1, '7': 1, K: 1, T: 1 } bid:  253
+serial:  20 cards:  34K8A 	type:   	hand_value:  3 rank_card_on_index:  [ 3, 4, 13, 8, 14 ] card_count:  { '3': 1, '4': 1, '8': 1, A: 1, K: 1 } bid:  748
+serial:  21 cards:  3742T 	type:   	hand_value:  3 rank_card_on_index:  [ 3, 7, 4, 2, 10 ] card_count:  { '2': 1, '3': 1, '4': 1, '7': 1, T: 1 } bid:  660
+serial:  22 cards:  374QK 	type:   	hand_value:  3 rank_card_on_index:  [ 3, 7, 4, 12, 13 ] card_count:  { '3': 1, '4': 1, '7': 1, K: 1, Q: 1 } bid:  918
+serial:  23 cards:  3T792 	type:   	hand_value:  3 rank_card_on_index:  [ 3, 10, 7, 9, 2 ] card_count:  { '2': 1, '3': 1, '7': 1, '9': 1, T: 1 } bid:  79
+serial:  24 cards:  3A57K 	type:   	hand_value:  3 rank_card_on_index:  [ 3, 14, 5, 7, 13 ] card_count:  { '3': 1, '5': 1, '7': 1, K: 1, A: 1 } bid:  686
+serial:  25 cards:  47AK6 	type:   	hand_value:  4 rank_card_on_index:  [ 4, 7, 14, 13, 6 ] card_count:  { '4': 1, '6': 1, '7': 1, K: 1, A: 1 } bid:  811
+serial:  26 cards:  47AK9 	type:   	hand_value:  4 rank_card_on_index:  [ 4, 7, 14, 13, 9 ] card_count:  { '4': 1, '7': 1, '9': 1, K: 1, A: 1 } bid:  683
+serial:  27 cards:  4827T 	type:   	hand_value:  4 rank_card_on_index:  [ 4, 8, 2, 7, 10 ] card_count:  { '2': 1, '4': 1, '7': 1, '8': 1, T: 1 } bid:  133
+serial:  28 cards:  48632 	type:   	hand_value:  4 rank_card_on_index:  [ 4, 8, 6, 3, 2 ] card_count:  { '2': 1, '3': 1, '4': 1, '6': 1, '8': 1 } bid:  16
+serial:  29 cards:  49632 	type:   	hand_value:  4 rank_card_on_index:  [ 4, 9, 6, 3, 2 ] card_count:  { '2': 1, '3': 1, '4': 1, '6': 1, '9': 1 } bid:  256
+serial:  30 cards:  49KQ7 	type:   	hand_value:  4 rank_card_on_index:  [ 4, 9, 13, 12, 7 ] card_count:  { '4': 1, '7': 1, '9': 1, Q: 1, K: 1 } bid:  757
+serial:  31 cards:  4TJQJ 	type:   	hand_value:  4 rank_card_on_index:  [ 4, 10, 1, 12, 1 ] card_count:  { '4': 1, Q: 1, T: 1 } bid:  94
+serial:  32 cards:  4QA89 	type:   	hand_value:  4 rank_card_on_index:  [ 4, 12, 14, 8, 9 ] card_count:  { '4': 1, '8': 1, '9': 1, A: 1, Q: 1 } bid:  990
+serial:  33 cards:  4K6QT 	type:   	hand_value:  4 rank_card_on_index:  [ 4, 13, 6, 12, 10 ] card_count:  { '4': 1, '6': 1, T: 1, Q: 1, K: 1 } bid:  805
+serial:  34 cards:  5JJK7 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 1, 1, 13, 7 ] card_count:  { '5': 1, '7': 1, K: 1 } bid:  227
+serial:  35 cards:  52K68 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 2, 13, 6, 8 ] card_count:  { '2': 1, '5': 1, '6': 1, '8': 1, K: 1 } bid:  750
+serial:  36 cards:  54JJJ 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 4, 1, 1, 1 ] card_count:  { '4': 1, '5': 1 } bid:  776
+serial:  37 cards:  59473 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 9, 4, 7, 3 ] card_count:  { '3': 1, '4': 1, '5': 1, '7': 1, '9': 1 } bid:  57
+serial:  38 cards:  597JJ 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 9, 7, 1, 1 ] card_count:  { '5': 1, '7': 1, '9': 1 } bid:  480
+serial:  39 cards:  59826 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 9, 8, 2, 6 ] card_count:  { '2': 1, '5': 1, '6': 1, '8': 1, '9': 1 } bid:  120
+serial:  40 cards:  5T684 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 10, 6, 8, 4 ] card_count:  { '4': 1, '5': 1, '6': 1, '8': 1, T: 1 } bid:  594
+serial:  41 cards:  5T8K2 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 10, 8, 13, 2 ] card_count:  { '2': 1, '5': 1, '8': 1, K: 1, T: 1 } bid:  370
+serial:  42 cards:  5Q98A 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 12, 9, 8, 14 ] card_count:  { '5': 1, '8': 1, '9': 1, A: 1, Q: 1 } bid:  157
+serial:  43 cards:  5QK98 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 12, 13, 9, 8 ] card_count:  { '5': 1, '8': 1, '9': 1, K: 1, Q: 1 } bid:  39
+serial:  44 cards:  5K39A 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 13, 3, 9, 14 ] card_count:  { '3': 1, '5': 1, '9': 1, A: 1, K: 1 } bid:  169
+serial:  45 cards:  5A9K6 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 14, 9, 13, 6 ] card_count:  { '5': 1, '6': 1, '9': 1, K: 1, A: 1 } bid:  123
+serial:  46 cards:  5AQK8 	type:   	hand_value:  5 rank_card_on_index:  [ 5, 14, 12, 13, 8 ] card_count:  { '5': 1, '8': 1, K: 1, Q: 1, A: 1 } bid:  973
+serial:  47 cards:  62359 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 2, 3, 5, 9 ] card_count:  { '2': 1, '3': 1, '5': 1, '6': 1, '9': 1 } bid:  179
+serial:  48 cards:  6235A 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 2, 3, 5, 14 ] card_count:  { '2': 1, '3': 1, '5': 1, '6': 1, A: 1 } bid:  193
+serial:  49 cards:  627Q8 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 2, 7, 12, 8 ] card_count:  { '2': 1, '6': 1, '7': 1, '8': 1, Q: 1 } bid:  917
+serial:  50 cards:  62K97 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 2, 13, 9, 7 ] card_count:  { '2': 1, '6': 1, '7': 1, '9': 1, K: 1 } bid:  760
+serial:  51 cards:  62A5K 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 2, 14, 5, 13 ] card_count:  { '2': 1, '5': 1, '6': 1, K: 1, A: 1 } bid:  326
+serial:  52 cards:  63TA5 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 3, 10, 14, 5 ] card_count:  { '3': 1, '5': 1, '6': 1, A: 1, T: 1 } bid:  645
+serial:  53 cards:  64379 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 4, 3, 7, 9 ] card_count:  { '3': 1, '4': 1, '6': 1, '7': 1, '9': 1 } bid:  383
+serial:  54 cards:  65TA8 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 5, 10, 14, 8 ] card_count:  { '5': 1, '6': 1, '8': 1, A: 1, T: 1 } bid:  421
+serial:  55 cards:  65A78 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 5, 14, 7, 8 ] card_count:  { '5': 1, '6': 1, '7': 1, '8': 1, A: 1 } bid:  831
+serial:  56 cards:  67A5T 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 7, 14, 5, 10 ] card_count:  { '5': 1, '6': 1, '7': 1, T: 1, A: 1 } bid:  248
+serial:  57 cards:  68T47 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 8, 10, 4, 7 ] card_count:  { '4': 1, '6': 1, '7': 1, '8': 1, T: 1 } bid:  567
+serial:  58 cards:  6T359 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 10, 3, 5, 9 ] card_count:  { '3': 1, '5': 1, '6': 1, '9': 1, T: 1 } bid:  466
+serial:  59 cards:  6A542 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 14, 5, 4, 2 ] card_count:  { '2': 1, '4': 1, '5': 1, '6': 1, A: 1 } bid:  889
+serial:  60 cards:  6AKT5 	type:   	hand_value:  6 rank_card_on_index:  [ 6, 14, 13, 10, 5 ] card_count:  { '5': 1, '6': 1, T: 1, K: 1, A: 1 } bid:  294
+serial:  61 cards:  7JJ49 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 1, 1, 4, 9 ] card_count:  { '4': 1, '7': 1, '9': 1 } bid:  82
+serial:  62 cards:  72A59 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 2, 14, 5, 9 ] card_count:  { '2': 1, '5': 1, '7': 1, '9': 1, A: 1 } bid:  205
+serial:  63 cards:  74Q6A 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 4, 12, 6, 14 ] card_count:  { '4': 1, '6': 1, '7': 1, A: 1, Q: 1 } bid:  221
+serial:  64 cards:  75J4J 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 5, 1, 4, 1 ] card_count:  { '4': 1, '5': 1, '7': 1 } bid:  491
+serial:  65 cards:  75J8J 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 5, 1, 8, 1 ] card_count:  { '5': 1, '7': 1, '8': 1 } bid:  639
+serial:  66 cards:  768K3 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 6, 8, 13, 3 ] card_count:  { '3': 1, '6': 1, '7': 1, '8': 1, K: 1 } bid:  488
+serial:  67 cards:  7T298 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 10, 2, 9, 8 ] card_count:  { '2': 1, '7': 1, '8': 1, '9': 1, T: 1 } bid:  170
+serial:  68 cards:  7K485 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 13, 4, 8, 5 ] card_count:  { '4': 1, '5': 1, '7': 1, '8': 1, K: 1 } bid:  648
+serial:  69 cards:  7A652 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 14, 6, 5, 2 ] card_count:  { '2': 1, '5': 1, '6': 1, '7': 1, A: 1 } bid:  25
+serial:  70 cards:  7A69T 	type:   	hand_value:  7 rank_card_on_index:  [ 7, 14, 6, 9, 10 ] card_count:  { '6': 1, '7': 1, '9': 1, T: 1, A: 1 } bid:  746
+serial:  71 cards:  8JJJJ 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 1, 1, 1, 1 ] card_count:  { '8': 1 } bid:  159
+serial:  72 cards:  8J26J 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 1, 2, 6, 1 ] card_count:  { '2': 1, '6': 1, '8': 1 } bid:  21
+serial:  73 cards:  827A5 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 2, 7, 14, 5 ] card_count:  { '2': 1, '5': 1, '7': 1, '8': 1, A: 1 } bid:  614
+serial:  74 cards:  83T62 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 3, 10, 6, 2 ] card_count:  { '2': 1, '3': 1, '6': 1, '8': 1, T: 1 } bid:  712
+serial:  75 cards:  842K3 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 4, 2, 13, 3 ] card_count:  { '2': 1, '3': 1, '4': 1, '8': 1, K: 1 } bid:  596
+serial:  76 cards:  8632K 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 6, 3, 2, 13 ] card_count:  { '2': 1, '3': 1, '6': 1, '8': 1, K: 1 } bid:  452
+serial:  77 cards:  867A3 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 6, 7, 14, 3 ] card_count:  { '3': 1, '6': 1, '7': 1, '8': 1, A: 1 } bid:  117
+serial:  78 cards:  86K42 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 6, 13, 4, 2 ] card_count:  { '2': 1, '4': 1, '6': 1, '8': 1, K: 1 } bid:  215
+serial:  79 cards:  87923 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 7, 9, 2, 3 ] card_count:  { '2': 1, '3': 1, '7': 1, '8': 1, '9': 1 } bid:  497
+serial:  80 cards:  87Q42 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 7, 12, 4, 2 ] card_count:  { '2': 1, '4': 1, '7': 1, '8': 1, Q: 1 } bid:  527
+serial:  81 cards:  8932K 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 9, 3, 2, 13 ] card_count:  { '2': 1, '3': 1, '8': 1, '9': 1, K: 1 } bid:  222
+serial:  82 cards:  8TJJ7 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 10, 1, 1, 7 ] card_count:  { '7': 1, '8': 1, T: 1 } bid:  165
+serial:  83 cards:  8T6Q7 	type:   	hand_value:  8 rank_card_on_index:  [ 8, 10, 6, 12, 7 ] card_count:  { '6': 1, '7': 1, '8': 1, Q: 1, T: 1 } bid:  434
+serial:  84 cards:  924KA 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 2, 4, 13, 14 ] card_count:  { '2': 1, '4': 1, '9': 1, A: 1, K: 1 } bid:  292
+serial:  85 cards:  93524 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 3, 5, 2, 4 ] card_count:  { '2': 1, '3': 1, '4': 1, '5': 1, '9': 1 } bid:  956
+serial:  86 cards:  96KT2 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 6, 13, 10, 2 ] card_count:  { '2': 1, '6': 1, '9': 1, T: 1, K: 1 } bid:  109
+serial:  87 cards:  97Q5A 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 7, 12, 5, 14 ] card_count:  { '5': 1, '7': 1, '9': 1, A: 1, Q: 1 } bid:  178
+serial:  88 cards:  9854K 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 8, 5, 4, 13 ] card_count:  { '4': 1, '5': 1, '8': 1, '9': 1, K: 1 } bid:  20
+serial:  89 cards:  98KA2 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 8, 13, 14, 2 ] card_count:  { '2': 1, '8': 1, '9': 1, A: 1, K: 1 } bid:  372
+serial:  90 cards:  9Q524 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 12, 5, 2, 4 ] card_count:  { '2': 1, '4': 1, '5': 1, '9': 1, Q: 1 } bid:  166
+serial:  91 cards:  9Q65K 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 12, 6, 5, 13 ] card_count:  { '5': 1, '6': 1, '9': 1, K: 1, Q: 1 } bid:  532
+serial:  92 cards:  9K75A 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 13, 7, 5, 14 ] card_count:  { '5': 1, '7': 1, '9': 1, A: 1, K: 1 } bid:  873
+serial:  93 cards:  9KQ43 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 13, 12, 4, 3 ] card_count:  { '3': 1, '4': 1, '9': 1, Q: 1, K: 1 } bid:  477
+serial:  94 cards:  9A34Q 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 14, 3, 4, 12 ] card_count:  { '3': 1, '4': 1, '9': 1, Q: 1, A: 1 } bid:  382
+serial:  95 cards:  9AKQT 	type:   	hand_value:  9 rank_card_on_index:  [ 9, 14, 13, 12, 10 ] card_count:  { '9': 1, T: 1, Q: 1, K: 1, A: 1 } bid:  451
+serial:  96 cards:  T293Q 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 2, 9, 3, 12 ] card_count:  { '2': 1, '3': 1, '9': 1, Q: 1, T: 1 } bid:  796
+serial:  97 cards:  T439K 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 4, 3, 9, 13 ] card_count:  { '3': 1, '4': 1, '9': 1, K: 1, T: 1 } bid:  272
+serial:  98 cards:  T5628 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 5, 6, 2, 8 ] card_count:  { '2': 1, '5': 1, '6': 1, '8': 1, T: 1 } bid:  151
+serial:  99 cards:  T579A 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 5, 7, 9, 14 ] card_count:  { '5': 1, '7': 1, '9': 1, A: 1, T: 1 } bid:  317
+serial:  100 cards:  T58KA 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 5, 8, 13, 14 ] card_count:  { '5': 1, '8': 1, A: 1, K: 1, T: 1 } bid:  73
+serial:  101 cards:  T59AQ 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 5, 9, 14, 12 ] card_count:  { '5': 1, '9': 1, Q: 1, A: 1, T: 1 } bid:  136
+serial:  102 cards:  T6253 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 6, 2, 5, 3 ] card_count:  { '2': 1, '3': 1, '5': 1, '6': 1, T: 1 } bid:  768
+serial:  103 cards:  T6587 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 6, 5, 8, 7 ] card_count:  { '5': 1, '6': 1, '7': 1, '8': 1, T: 1 } bid:  612
+serial:  104 cards:  T785K 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 7, 8, 5, 13 ] card_count:  { '5': 1, '7': 1, '8': 1, K: 1, T: 1 } bid:  865
+serial:  105 cards:  T79Q8 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 7, 9, 12, 8 ] card_count:  { '7': 1, '8': 1, '9': 1, Q: 1, T: 1 } bid:  208
+serial:  106 cards:  T843K 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 8, 4, 3, 13 ] card_count:  { '3': 1, '4': 1, '8': 1, K: 1, T: 1 } bid:  600
+serial:  107 cards:  T8A36 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 8, 14, 3, 6 ] card_count:  { '3': 1, '6': 1, '8': 1, A: 1, T: 1 } bid:  237
+serial:  108 cards:  T923K 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 9, 2, 3, 13 ] card_count:  { '2': 1, '3': 1, '9': 1, K: 1, T: 1 } bid:  512
+serial:  109 cards:  T9736 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 9, 7, 3, 6 ] card_count:  { '3': 1, '6': 1, '7': 1, '9': 1, T: 1 } bid:  121
+serial:  110 cards:  TQK85 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 12, 13, 8, 5 ] card_count:  { '5': 1, '8': 1, K: 1, Q: 1, T: 1 } bid:  316
+serial:  111 cards:  TKAQ5 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 13, 14, 12, 5 ] card_count:  { '5': 1, Q: 1, A: 1, K: 1, T: 1 } bid:  819
+serial:  112 cards:  TA549 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 14, 5, 4, 9 ] card_count:  { '4': 1, '5': 1, '9': 1, A: 1, T: 1 } bid:  155
+serial:  113 cards:  TA7K4 	type:   	hand_value:  10 rank_card_on_index:  [ 10, 14, 7, 13, 4 ] card_count:  { '4': 1, '7': 1, K: 1, A: 1, T: 1 } bid:  364
+serial:  114 cards:  Q359T 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 3, 5, 9, 10 ] card_count:  { '3': 1, '5': 1, '9': 1, T: 1, Q: 1 } bid:  436
+serial:  115 cards:  Q365T 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 3, 6, 5, 10 ] card_count:  { '3': 1, '5': 1, '6': 1, T: 1, Q: 1 } bid:  462
+serial:  116 cards:  Q4265 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 4, 2, 6, 5 ] card_count:  { '2': 1, '4': 1, '5': 1, '6': 1, Q: 1 } bid:  146
+serial:  117 cards:  Q47K8 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 4, 7, 13, 8 ] card_count:  { '4': 1, '7': 1, '8': 1, K: 1, Q: 1 } bid:  624
+serial:  118 cards:  Q5T46 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 5, 10, 4, 6 ] card_count:  { '4': 1, '5': 1, '6': 1, T: 1, Q: 1 } bid:  440
+serial:  119 cards:  Q6849 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 6, 8, 4, 9 ] card_count:  { '4': 1, '6': 1, '8': 1, '9': 1, Q: 1 } bid:  571
+serial:  120 cards:  Q9JJ8 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 9, 1, 1, 8 ] card_count:  { '8': 1, '9': 1, Q: 1 } bid:  813
+serial:  121 cards:  Q9TA6 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 9, 10, 14, 6 ] card_count:  { '6': 1, '9': 1, A: 1, T: 1, Q: 1 } bid:  291
+serial:  122 cards:  QT398 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 10, 3, 9, 8 ] card_count:  { '3': 1, '8': 1, '9': 1, T: 1, Q: 1 } bid:  866
+serial:  123 cards:  QT89A 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 10, 8, 9, 14 ] card_count:  { '8': 1, '9': 1, A: 1, T: 1, Q: 1 } bid:  713
+serial:  124 cards:  QT967 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 10, 9, 6, 7 ] card_count:  { '6': 1, '7': 1, '9': 1, T: 1, Q: 1 } bid:  493
+serial:  125 cards:  QK849 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 13, 8, 4, 9 ] card_count:  { '4': 1, '8': 1, '9': 1, K: 1, Q: 1 } bid:  793
+serial:  126 cards:  QA4K9 	type:   	hand_value:  12 rank_card_on_index:  [ 12, 14, 4, 13, 9 ] card_count:  { '4': 1, '9': 1, K: 1, A: 1, Q: 1 } bid:  622
+serial:  127 cards:  KJJ6J 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 1, 1, 6, 1 ] card_count:  { '6': 1, K: 1 } bid:  61
+serial:  128 cards:  KJJ63 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 1, 1, 6, 3 ] card_count:  { '3': 1, '6': 1, K: 1 } bid:  478
+serial:  129 cards:  K274T 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 2, 7, 4, 10 ] card_count:  { '2': 1, '4': 1, '7': 1, T: 1, K: 1 } bid:  671
+serial:  130 cards:  K2QA9 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 2, 12, 14, 9 ] card_count:  { '2': 1, '9': 1, A: 1, Q: 1, K: 1 } bid:  902
+serial:  131 cards:  K3TQ4 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 3, 10, 12, 4 ] card_count:  { '3': 1, '4': 1, Q: 1, T: 1, K: 1 } bid:  581
+serial:  132 cards:  K4982 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 4, 9, 8, 2 ] card_count:  { '2': 1, '4': 1, '8': 1, '9': 1, K: 1 } bid:  279
+serial:  133 cards:  K4T28 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 4, 10, 2, 8 ] card_count:  { '2': 1, '4': 1, '8': 1, T: 1, K: 1 } bid:  141
+serial:  134 cards:  K6Q49 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 6, 12, 4, 9 ] card_count:  { '4': 1, '6': 1, '9': 1, Q: 1, K: 1 } bid:  268
+serial:  135 cards:  K86A4 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 8, 6, 14, 4 ] card_count:  { '4': 1, '6': 1, '8': 1, A: 1, K: 1 } bid:  373
+serial:  136 cards:  KA74Q 	type:   	hand_value:  13 rank_card_on_index:  [ 13, 14, 7, 4, 12 ] card_count:  { '4': 1, '7': 1, Q: 1, A: 1, K: 1 } bid:  687
+serial:  137 cards:  A25T4 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 2, 5, 10, 4 ] card_count:  { '2': 1, '4': 1, '5': 1, T: 1, A: 1 } bid:  880
+serial:  138 cards:  A26Q7 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 2, 6, 12, 7 ] card_count:  { '2': 1, '6': 1, '7': 1, Q: 1, A: 1 } bid:  666
+serial:  139 cards:  A3K86 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 3, 13, 8, 6 ] card_count:  { '3': 1, '6': 1, '8': 1, K: 1, A: 1 } bid:  259
+serial:  140 cards:  A4T9Q 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 4, 10, 9, 12 ] card_count:  { '4': 1, '9': 1, Q: 1, T: 1, A: 1 } bid:  692
+serial:  141 cards:  A5238 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 5, 2, 3, 8 ] card_count:  { '2': 1, '3': 1, '5': 1, '8': 1, A: 1 } bid:  754
+serial:  142 cards:  A59T6 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 5, 9, 10, 6 ] card_count:  { '5': 1, '6': 1, '9': 1, T: 1, A: 1 } bid:  707
+serial:  143 cards:  A6972 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 6, 9, 7, 2 ] card_count:  { '2': 1, '6': 1, '7': 1, '9': 1, A: 1 } bid:  841
+serial:  144 cards:  A72KQ 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 7, 2, 13, 12 ] card_count:  { '2': 1, '7': 1, Q: 1, K: 1, A: 1 } bid:  799
+serial:  145 cards:  A786Q 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 7, 8, 6, 12 ] card_count:  { '6': 1, '7': 1, '8': 1, Q: 1, A: 1 } bid:  897
+serial:  146 cards:  A7TQ9 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 7, 10, 12, 9 ] card_count:  { '7': 1, '9': 1, Q: 1, T: 1, A: 1 } bid:  965
+serial:  147 cards:  A9637 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 9, 6, 3, 7 ] card_count:  { '3': 1, '6': 1, '7': 1, '9': 1, A: 1 } bid:  815
+serial:  148 cards:  AT296 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 10, 2, 9, 6 ] card_count:  { '2': 1, '6': 1, '9': 1, T: 1, A: 1 } bid:  31
+serial:  149 cards:  AQ3K9 	type:   	hand_value:  14 rank_card_on_index:  [ 14, 12, 3, 13, 9 ] card_count:  { '3': 1, '9': 1, K: 1, Q: 1, A: 1 } bid:  752
+serial:  150 cards:  JJJ22 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 1, 1, 2, 2 ] card_count:  { '2': 2 } bid:  430
+serial:  151 cards:  J253K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 2, 5, 3, 13 ] card_count:  { '2': 1, '3': 1, '5': 1, K: 1 } bid:  286
+serial:  152 cards:  J5Q4K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 5, 12, 4, 13 ] card_count:  { '4': 1, '5': 1, K: 1, Q: 1 } bid:  47
+serial:  153 cards:  J5Q94 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 5, 12, 9, 4 ] card_count:  { '4': 1, '5': 1, '9': 1, Q: 1 } bid:  263
+serial:  154 cards:  J6793 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 6, 7, 9, 3 ] card_count:  { '3': 1, '6': 1, '7': 1, '9': 1 } bid:  800
+serial:  155 cards:  J745Q 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 7, 4, 5, 12 ] card_count:  { '4': 1, '5': 1, '7': 1, Q: 1 } bid:  635
+serial:  156 cards:  J8AQ4 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 8, 14, 12, 4 ] card_count:  { '4': 1, '8': 1, Q: 1, A: 1 } bid:  377
+serial:  157 cards:  J986K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 9, 8, 6, 13 ] card_count:  { '6': 1, '8': 1, '9': 1, K: 1 } bid:  3
+serial:  158 cards:  J9Q7K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 9, 12, 7, 13 ] card_count:  { '7': 1, '9': 1, K: 1, Q: 1 } bid:  359
+serial:  159 cards:  JQJJQ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 12, 1, 1, 12 ] card_count:  { Q: 2 } bid:  427
+serial:  160 cards:  JQ39K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 12, 3, 9, 13 ] card_count:  { '3': 1, '9': 1, K: 1, Q: 1 } bid:  336
+serial:  161 cards:  JQ537 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 12, 5, 3, 7 ] card_count:  { '3': 1, '5': 1, '7': 1, Q: 1 } bid:  504
+serial:  162 cards:  JQ687 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 12, 6, 8, 7 ] card_count:  { '6': 1, '7': 1, '8': 1, Q: 1 } bid:  662
+serial:  163 cards:  JQ798 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 12, 7, 9, 8 ] card_count:  { '7': 1, '8': 1, '9': 1, Q: 1 } bid:  66
+serial:  164 cards:  JKJKJ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 13, 1, 13, 1 ] card_count:  { K: 2 } bid:  150
+serial:  165 cards:  JA738 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 14, 7, 3, 8 ] card_count:  { '3': 1, '7': 1, '8': 1, A: 1 } bid:  611
+serial:  166 cards:  JAQ86 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 1, 14, 12, 8, 6 ] card_count:  { '6': 1, '8': 1, Q: 1, A: 1 } bid:  737
+serial:  167 cards:  22945 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 2, 9, 4, 5 ] card_count:  { '2': 2, '4': 1, '5': 1, '9': 1 } bid:  606
+serial:  168 cards:  22T7K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 2, 10, 7, 13 ] card_count:  { '2': 2, '7': 1, K: 1, T: 1 } bid:  485
+serial:  169 cards:  22Q74 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 2, 12, 7, 4 ] card_count:  { '2': 2, '4': 1, '7': 1, Q: 1 } bid:  868
+serial:  170 cards:  24J8Q 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 4, 1, 8, 12 ] card_count:  { '2': 1, '4': 1, '8': 1, Q: 1 } bid:  520
+serial:  171 cards:  2554Q 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 5, 5, 4, 12 ] card_count:  { '2': 1, '4': 1, '5': 2, Q: 1 } bid:  500
+serial:  172 cards:  26852 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 6, 8, 5, 2 ] card_count:  { '2': 2, '5': 1, '6': 1, '8': 1 } bid:  914
+serial:  173 cards:  26AAK 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 6, 14, 14, 13 ] card_count:  { '2': 1, '6': 1, K: 1, A: 2 } bid:  579
+serial:  174 cards:  2738J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 7, 3, 8, 1 ] card_count:  { '2': 1, '3': 1, '7': 1, '8': 1 } bid:  229
+serial:  175 cards:  299K6 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 9, 9, 13, 6 ] card_count:  { '2': 1, '6': 1, '9': 2, K: 1 } bid:  389
+serial:  176 cards:  29T9Q 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 9, 10, 9, 12 ] card_count:  { '2': 1, '9': 2, Q: 1, T: 1 } bid:  458
+serial:  177 cards:  2TT39 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 10, 10, 3, 9 ] card_count:  { '2': 1, '3': 1, '9': 1, T: 2 } bid:  160
+serial:  178 cards:  2QK28 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 12, 13, 2, 8 ] card_count:  { '2': 2, '8': 1, K: 1, Q: 1 } bid:  445
+serial:  179 cards:  2K372 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 13, 3, 7, 2 ] card_count:  { '2': 2, '3': 1, '7': 1, K: 1 } bid:  132
+serial:  180 cards:  2A2K8 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 14, 2, 13, 8 ] card_count:  { '2': 2, '8': 1, K: 1, A: 1 } bid:  112
+serial:  181 cards:  2A3K2 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 2, 14, 3, 13, 2 ] card_count:  { '2': 2, '3': 1, K: 1, A: 1 } bid:  419
+serial:  182 cards:  328Q2 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 2, 8, 12, 2 ] card_count:  { '2': 2, '3': 1, '8': 1, Q: 1 } bid:  77
+serial:  183 cards:  33592 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 3, 5, 9, 2 ] card_count:  { '2': 1, '3': 2, '5': 1, '9': 1 } bid:  56
+serial:  184 cards:  3367A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 3, 6, 7, 14 ] card_count:  { '3': 2, '6': 1, '7': 1, A: 1 } bid:  781
+serial:  185 cards:  33KA8 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 3, 13, 14, 8 ] card_count:  { '3': 2, '8': 1, A: 1, K: 1 } bid:  723
+serial:  186 cards:  3587J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 5, 8, 7, 1 ] card_count:  { '3': 1, '5': 1, '7': 1, '8': 1 } bid:  728
+serial:  187 cards:  35Q95 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 5, 12, 9, 5 ] card_count:  { '3': 1, '5': 2, '9': 1, Q: 1 } bid:  625
+serial:  188 cards:  36238 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 6, 2, 3, 8 ] card_count:  { '2': 1, '3': 2, '6': 1, '8': 1 } bid:  770
+serial:  189 cards:  37369 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 7, 3, 6, 9 ] card_count:  { '3': 2, '6': 1, '7': 1, '9': 1 } bid:  539
+serial:  190 cards:  37T2J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 7, 10, 2, 1 ] card_count:  { '2': 1, '3': 1, '7': 1, T: 1 } bid:  890
+serial:  191 cards:  37Q87 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 7, 12, 8, 7 ] card_count:  { '3': 1, '7': 2, '8': 1, Q: 1 } bid:  495
+serial:  192 cards:  38J65 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 8, 1, 6, 5 ] card_count:  { '3': 1, '5': 1, '6': 1, '8': 1 } bid:  767
+serial:  193 cards:  383K9 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 8, 3, 13, 9 ] card_count:  { '3': 2, '8': 1, '9': 1, K: 1 } bid:  826
+serial:  194 cards:  384Q3 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 8, 4, 12, 3 ] card_count:  { '3': 2, '4': 1, '8': 1, Q: 1 } bid:  822
+serial:  195 cards:  3998Q 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 9, 9, 8, 12 ] card_count:  { '3': 1, '8': 1, '9': 2, Q: 1 } bid:  76
+serial:  196 cards:  39QJ6 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 9, 12, 1, 6 ] card_count:  { '3': 1, '6': 1, '9': 1, Q: 1 } bid:  187
+serial:  197 cards:  3T4QJ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 10, 4, 12, 1 ] card_count:  { '3': 1, '4': 1, Q: 1, T: 1 } bid:  48
+serial:  198 cards:  3KJ96 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 13, 1, 9, 6 ] card_count:  { '3': 1, '6': 1, '9': 1, K: 1 } bid:  729
+serial:  199 cards:  3K767 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 13, 7, 6, 7 ] card_count:  { '3': 1, '6': 1, '7': 2, K: 1 } bid:  699
+serial:  200 cards:  3A362 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 14, 3, 6, 2 ] card_count:  { '2': 1, '3': 2, '6': 1, A: 1 } bid:  295
+serial:  201 cards:  3A6K6 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 3, 14, 6, 13, 6 ] card_count:  { '3': 1, '6': 2, K: 1, A: 1 } bid:  586
+serial:  202 cards:  4J8Q5 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 1, 8, 12, 5 ] card_count:  { '4': 1, '5': 1, '8': 1, Q: 1 } bid:  936
+serial:  203 cards:  42577 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 2, 5, 7, 7 ] card_count:  { '2': 1, '4': 1, '5': 1, '7': 2 } bid:  771
+serial:  204 cards:  42T34 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 2, 10, 3, 4 ] card_count:  { '2': 1, '3': 1, '4': 2, T: 1 } bid:  787
+serial:  205 cards:  45K2K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 5, 13, 2, 13 ] card_count:  { '2': 1, '4': 1, '5': 1, K: 2 } bid:  380
+serial:  206 cards:  47673 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 7, 6, 7, 3 ] card_count:  { '3': 1, '4': 1, '6': 1, '7': 2 } bid:  858
+serial:  207 cards:  47QJA 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 7, 12, 1, 14 ] card_count:  { '4': 1, '7': 1, A: 1, Q: 1 } bid:  24
+serial:  208 cards:  48JTK 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 8, 1, 10, 13 ] card_count:  { '4': 1, '8': 1, K: 1, T: 1 } bid:  849
+serial:  209 cards:  48K28 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 8, 13, 2, 8 ] card_count:  { '2': 1, '4': 1, '8': 2, K: 1 } bid:  517
+serial:  210 cards:  4TJQA 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 10, 1, 12, 14 ] card_count:  { '4': 1, A: 1, Q: 1, T: 1 } bid:  881
+serial:  211 cards:  4TAQQ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 10, 14, 12, 12 ] card_count:  { '4': 1, Q: 2, A: 1, T: 1 } bid:  378
+serial:  212 cards:  4Q55A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 12, 5, 5, 14 ] card_count:  { '4': 1, '5': 2, A: 1, Q: 1 } bid:  901
+serial:  213 cards:  4Q9Q5 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 12, 9, 12, 5 ] card_count:  { '4': 1, '5': 1, '9': 1, Q: 2 } bid:  182
+serial:  214 cards:  4QQ53 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 12, 12, 5, 3 ] card_count:  { '3': 1, '4': 1, '5': 1, Q: 2 } bid:  638
+serial:  215 cards:  4AAK5 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 4, 14, 14, 13, 5 ] card_count:  { '4': 1, '5': 1, K: 1, A: 2 } bid:  255
+serial:  216 cards:  52T29 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 2, 10, 2, 9 ] card_count:  { '2': 2, '5': 1, '9': 1, T: 1 } bid:  41
+serial:  217 cards:  53T65 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 3, 10, 6, 5 ] card_count:  { '3': 1, '5': 2, '6': 1, T: 1 } bid:  562
+serial:  218 cards:  53A99 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 3, 14, 9, 9 ] card_count:  { '3': 1, '5': 1, '9': 2, A: 1 } bid:  52
+serial:  219 cards:  553A8 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 5, 3, 14, 8 ] card_count:  { '3': 1, '5': 2, '8': 1, A: 1 } bid:  325
+serial:  220 cards:  55KTA 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 5, 13, 10, 14 ] card_count:  { '5': 2, A: 1, T: 1, K: 1 } bid:  327
+serial:  221 cards:  57297 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 7, 2, 9, 7 ] card_count:  { '2': 1, '5': 1, '7': 2, '9': 1 } bid:  689
+serial:  222 cards:  58356 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 8, 3, 5, 6 ] card_count:  { '3': 1, '5': 2, '6': 1, '8': 1 } bid:  853
+serial:  223 cards:  5878K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 8, 7, 8, 13 ] card_count:  { '5': 1, '7': 1, '8': 2, K: 1 } bid:  659
+serial:  224 cards:  594J8 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 9, 4, 1, 8 ] card_count:  { '4': 1, '5': 1, '8': 1, '9': 1 } bid:  812
+serial:  225 cards:  5T86J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 10, 8, 6, 1 ] card_count:  { '5': 1, '6': 1, '8': 1, T: 1 } bid:  26
+serial:  226 cards:  5T9J2 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 10, 9, 1, 2 ] card_count:  { '2': 1, '5': 1, '9': 1, T: 1 } bid:  590
+serial:  227 cards:  5K323 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 13, 3, 2, 3 ] card_count:  { '2': 1, '3': 2, '5': 1, K: 1 } bid:  710
+serial:  228 cards:  5K76J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 13, 7, 6, 1 ] card_count:  { '5': 1, '6': 1, '7': 1, K: 1 } bid:  202
+serial:  229 cards:  5A635 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 5, 14, 6, 3, 5 ] card_count:  { '3': 1, '5': 2, '6': 1, A: 1 } bid:  753
+serial:  230 cards:  626A7 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 6, 2, 6, 14, 7 ] card_count:  { '2': 1, '6': 2, '7': 1, A: 1 } bid:  709
+serial:  231 cards:  629J4 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 6, 2, 9, 1, 4 ] card_count:  { '2': 1, '4': 1, '6': 1, '9': 1 } bid:  483
+serial:  232 cards:  63Q4J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 6, 3, 12, 4, 1 ] card_count:  { '3': 1, '4': 1, '6': 1, Q: 1 } bid:  42
+serial:  233 cards:  6486K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 6, 4, 8, 6, 13 ] card_count:  { '4': 1, '6': 2, '8': 1, K: 1 } bid:  702
+serial:  234 cards:  64T7T 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 6, 4, 10, 7, 10 ] card_count:  { '4': 1, '6': 1, '7': 1, T: 2 } bid:  219
+serial:  235 cards:  68445 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 6, 8, 4, 4, 5 ] card_count:  { '4': 2, '5': 1, '6': 1, '8': 1 } bid:  264
+serial:  236 cards:  68QA8 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 6, 8, 12, 14, 8 ] card_count:  { '6': 1, '8': 2, A: 1, Q: 1 } bid:  174
+serial:  237 cards:  6QJ2A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 6, 12, 1, 2, 14 ] card_count:  { '2': 1, '6': 1, A: 1, Q: 1 } bid:  854
+serial:  238 cards:  6AJ2T 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 6, 14, 1, 2, 10 ] card_count:  { '2': 1, '6': 1, T: 1, A: 1 } bid:  929
+serial:  239 cards:  7343T 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 3, 4, 3, 10 ] card_count:  { '3': 2, '4': 1, '7': 1, T: 1 } bid:  535
+serial:  240 cards:  73K3T 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 3, 13, 3, 10 ] card_count:  { '3': 2, '7': 1, T: 1, K: 1 } bid:  999
+serial:  241 cards:  74234 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 4, 2, 3, 4 ] card_count:  { '2': 1, '3': 1, '4': 2, '7': 1 } bid:  138
+serial:  242 cards:  747A9 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 4, 7, 14, 9 ] card_count:  { '4': 1, '7': 2, '9': 1, A: 1 } bid:  572
+serial:  243 cards:  756K6 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 5, 6, 13, 6 ] card_count:  { '5': 1, '6': 2, '7': 1, K: 1 } bid:  561
+serial:  244 cards:  75845 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 5, 8, 4, 5 ] card_count:  { '4': 1, '5': 2, '7': 1, '8': 1 } bid:  946
+serial:  245 cards:  76A8J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 6, 14, 8, 1 ] card_count:  { '6': 1, '7': 1, '8': 1, A: 1 } bid:  795
+serial:  246 cards:  7972T 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 9, 7, 2, 10 ] card_count:  { '2': 1, '7': 2, '9': 1, T: 1 } bid:  308
+serial:  247 cards:  7TTQ5 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 10, 10, 12, 5 ] card_count:  { '5': 1, '7': 1, Q: 1, T: 2 } bid:  342
+serial:  248 cards:  7KQQ4 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 13, 12, 12, 4 ] card_count:  { '4': 1, '7': 1, Q: 2, K: 1 } bid:  958
+serial:  249 cards:  7A987 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 7, 14, 9, 8, 7 ] card_count:  { '7': 2, '8': 1, '9': 1, A: 1 } bid:  177
+serial:  250 cards:  8443Q 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 4, 4, 3, 12 ] card_count:  { '3': 1, '4': 2, '8': 1, Q: 1 } bid:  820
+serial:  251 cards:  84649 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 4, 6, 4, 9 ] card_count:  { '4': 2, '6': 1, '8': 1, '9': 1 } bid:  397
+serial:  252 cards:  875J9 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 7, 5, 1, 9 ] card_count:  { '5': 1, '7': 1, '8': 1, '9': 1 } bid:  551
+serial:  253 cards:  88T56 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 8, 10, 5, 6 ] card_count:  { '5': 1, '6': 1, '8': 2, T: 1 } bid:  667
+serial:  254 cards:  8922K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 9, 2, 2, 13 ] card_count:  { '2': 2, '8': 1, '9': 1, K: 1 } bid:  998
+serial:  255 cards:  89A38 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 9, 14, 3, 8 ] card_count:  { '3': 1, '8': 2, '9': 1, A: 1 } bid:  627
+serial:  256 cards:  8T85A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 10, 8, 5, 14 ] card_count:  { '5': 1, '8': 2, A: 1, T: 1 } bid:  330
+serial:  257 cards:  8KQ28 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 13, 12, 2, 8 ] card_count:  { '2': 1, '8': 2, Q: 1, K: 1 } bid:  392
+serial:  258 cards:  8KA82 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 13, 14, 8, 2 ] card_count:  { '2': 1, '8': 2, A: 1, K: 1 } bid:  232
+serial:  259 cards:  8A633 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 14, 6, 3, 3 ] card_count:  { '3': 2, '6': 1, '8': 1, A: 1 } bid:  492
+serial:  260 cards:  8AAT7 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 8, 14, 14, 10, 7 ] card_count:  { '7': 1, '8': 1, T: 1, A: 2 } bid:  191
+serial:  261 cards:  92J48 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 2, 1, 4, 8 ] card_count:  { '2': 1, '4': 1, '8': 1, '9': 1 } bid:  465
+serial:  262 cards:  92JKT 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 2, 1, 13, 10 ] card_count:  { '2': 1, '9': 1, T: 1, K: 1 } bid:  296
+serial:  263 cards:  93J7A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 3, 1, 7, 14 ] card_count:  { '3': 1, '7': 1, '9': 1, A: 1 } bid:  784
+serial:  264 cards:  93K5J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 3, 13, 5, 1 ] card_count:  { '3': 1, '5': 1, '9': 1, K: 1 } bid:  837
+serial:  265 cards:  947A9 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 4, 7, 14, 9 ] card_count:  { '4': 1, '7': 1, '9': 2, A: 1 } bid:  736
+serial:  266 cards:  96294 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 6, 2, 9, 4 ] card_count:  { '2': 1, '4': 1, '6': 1, '9': 2 } bid:  877
+serial:  267 cards:  9734J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 7, 3, 4, 1 ] card_count:  { '3': 1, '4': 1, '7': 1, '9': 1 } bid:  818
+serial:  268 cards:  97Q7A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 7, 12, 7, 14 ] card_count:  { '7': 2, '9': 1, A: 1, Q: 1 } bid:  261
+serial:  269 cards:  98334 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 8, 3, 3, 4 ] card_count:  { '3': 2, '4': 1, '8': 1, '9': 1 } bid:  402
+serial:  270 cards:  98T87 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 8, 10, 8, 7 ] card_count:  { '7': 1, '8': 2, '9': 1, T: 1 } bid:  912
+serial:  271 cards:  98QJ3 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 8, 12, 1, 3 ] card_count:  { '3': 1, '8': 1, '9': 1, Q: 1 } bid:  189
+serial:  272 cards:  9946K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 9, 4, 6, 13 ] card_count:  { '4': 1, '6': 1, '9': 2, K: 1 } bid:  690
+serial:  273 cards:  9T589 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 10, 5, 8, 9 ] card_count:  { '5': 1, '8': 1, '9': 2, T: 1 } bid:  306
+serial:  274 cards:  9Q484 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 12, 4, 8, 4 ] card_count:  { '4': 2, '8': 1, '9': 1, Q: 1 } bid:  332
+serial:  275 cards:  9K3Q3 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 13, 3, 12, 3 ] card_count:  { '3': 2, '9': 1, Q: 1, K: 1 } bid:  557
+serial:  276 cards:  9K829 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 13, 8, 2, 9 ] card_count:  { '2': 1, '8': 1, '9': 2, K: 1 } bid:  609
+serial:  277 cards:  9A36A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 9, 14, 3, 6, 14 ] card_count:  { '3': 1, '6': 1, '9': 1, A: 2 } bid:  995
+serial:  278 cards:  TJTJJ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 1, 10, 1, 1 ] card_count:  { T: 2 } bid:  489
+serial:  279 cards:  TJK46 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 1, 13, 4, 6 ] card_count:  { '4': 1, '6': 1, K: 1, T: 1 } bid:  585
+serial:  280 cards:  TJK68 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 1, 13, 6, 8 ] card_count:  { '6': 1, '8': 1, K: 1, T: 1 } bid:  307
+serial:  281 cards:  T2726 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 2, 7, 2, 6 ] card_count:  { '2': 2, '6': 1, '7': 1, T: 1 } bid:  810
+serial:  282 cards:  T2AQ2 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 2, 14, 12, 2 ] card_count:  { '2': 2, Q: 1, A: 1, T: 1 } bid:  8
+serial:  283 cards:  T3AA9 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 3, 14, 14, 9 ] card_count:  { '3': 1, '9': 1, A: 2, T: 1 } bid:  848
+serial:  284 cards:  T4J65 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 4, 1, 6, 5 ] card_count:  { '4': 1, '5': 1, '6': 1, T: 1 } bid:  514
+serial:  285 cards:  T4665 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 4, 6, 6, 5 ] card_count:  { '4': 1, '5': 1, '6': 2, T: 1 } bid:  591
+serial:  286 cards:  T48QT 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 4, 8, 12, 10 ] card_count:  { '4': 1, '8': 1, T: 2, Q: 1 } bid:  668
+serial:  287 cards:  T5Q88 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 5, 12, 8, 8 ] card_count:  { '5': 1, '8': 2, Q: 1, T: 1 } bid:  593
+serial:  288 cards:  T6256 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 6, 2, 5, 6 ] card_count:  { '2': 1, '5': 1, '6': 2, T: 1 } bid:  664
+serial:  289 cards:  T63AJ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 6, 3, 14, 1 ] card_count:  { '3': 1, '6': 1, A: 1, T: 1 } bid:  741
+serial:  290 cards:  T65QQ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 6, 5, 12, 12 ] card_count:  { '5': 1, '6': 1, Q: 2, T: 1 } bid:  275
+serial:  291 cards:  T6685 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 6, 6, 8, 5 ] card_count:  { '5': 1, '6': 2, '8': 1, T: 1 } bid:  318
+serial:  292 cards:  T6KTQ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 6, 13, 10, 12 ] card_count:  { '6': 1, Q: 1, T: 2, K: 1 } bid:  376
+serial:  293 cards:  T76T8 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 7, 6, 10, 8 ] card_count:  { '6': 1, '7': 1, '8': 1, T: 2 } bid:  280
+serial:  294 cards:  T7T96 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 7, 10, 9, 6 ] card_count:  { '6': 1, '7': 1, '9': 1, T: 2 } bid:  761
+serial:  295 cards:  T8J3A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 8, 1, 3, 14 ] card_count:  { '3': 1, '8': 1, A: 1, T: 1 } bid:  930
+serial:  296 cards:  T847J 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 8, 4, 7, 1 ] card_count:  { '4': 1, '7': 1, '8': 1, T: 1 } bid:  134
+serial:  297 cards:  T84KT 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 8, 4, 13, 10 ] card_count:  { '4': 1, '8': 1, T: 2, K: 1 } bid:  343
+serial:  298 cards:  T8K58 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 8, 13, 5, 8 ] card_count:  { '5': 1, '8': 2, K: 1, T: 1 } bid:  735
+serial:  299 cards:  T9926 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 9, 9, 2, 6 ] card_count:  { '2': 1, '6': 1, '9': 2, T: 1 } bid:  29
+serial:  300 cards:  TT49A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 10, 4, 9, 14 ] card_count:  { '4': 1, '9': 1, A: 1, T: 2 } bid:  281
+serial:  301 cards:  TQJK6 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 12, 1, 13, 6 ] card_count:  { '6': 1, K: 1, Q: 1, T: 1 } bid:  250
+serial:  302 cards:  TQ24Q 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 12, 2, 4, 12 ] card_count:  { '2': 1, '4': 1, Q: 2, T: 1 } bid:  846
+serial:  303 cards:  TQ6AT 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 12, 6, 14, 10 ] card_count:  { '6': 1, T: 2, A: 1, Q: 1 } bid:  759
+serial:  304 cards:  TAAQ2 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 10, 14, 14, 12, 2 ] card_count:  { '2': 1, Q: 1, A: 2, T: 1 } bid:  103
+serial:  305 cards:  QJ578 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 1, 5, 7, 8 ] card_count:  { '5': 1, '7': 1, '8': 1, Q: 1 } bid:  935
+serial:  306 cards:  Q2TAQ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 2, 10, 14, 12 ] card_count:  { '2': 1, Q: 2, A: 1, T: 1 } bid:  433
+serial:  307 cards:  Q34QT 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 3, 4, 12, 10 ] card_count:  { '3': 1, '4': 1, T: 1, Q: 2 } bid:  806
+serial:  308 cards:  Q38Q9 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 3, 8, 12, 9 ] card_count:  { '3': 1, '8': 1, '9': 1, Q: 2 } bid:  171
+serial:  309 cards:  Q4743 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 4, 7, 4, 3 ] card_count:  { '3': 1, '4': 2, '7': 1, Q: 1 } bid:  851
+serial:  310 cards:  Q5QK2 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 5, 12, 13, 2 ] card_count:  { '2': 1, '5': 1, K: 1, Q: 2 } bid:  502
+serial:  311 cards:  Q62J9 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 6, 2, 1, 9 ] card_count:  { '2': 1, '6': 1, '9': 1, Q: 1 } bid:  576
+serial:  312 cards:  Q78KJ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 7, 8, 13, 1 ] card_count:  { '7': 1, '8': 1, K: 1, Q: 1 } bid:  720
+serial:  313 cards:  Q82TJ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 8, 2, 10, 1 ] card_count:  { '2': 1, '8': 1, T: 1, Q: 1 } bid:  245
+serial:  314 cards:  Q8TT5 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 8, 10, 10, 5 ] card_count:  { '5': 1, '8': 1, T: 2, Q: 1 } bid:  240
+serial:  315 cards:  Q9928 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 9, 9, 2, 8 ] card_count:  { '2': 1, '8': 1, '9': 2, Q: 1 } bid:  742
+serial:  316 cards:  Q9AA6 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 9, 14, 14, 6 ] card_count:  { '6': 1, '9': 1, A: 2, Q: 1 } bid:  258
+serial:  317 cards:  QT464 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 10, 4, 6, 4 ] card_count:  { '4': 2, '6': 1, T: 1, Q: 1 } bid:  288
+serial:  318 cards:  QK663 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 13, 6, 6, 3 ] card_count:  { '3': 1, '6': 2, K: 1, Q: 1 } bid:  91
+serial:  319 cards:  QAT5A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 14, 10, 5, 14 ] card_count:  { '5': 1, A: 2, T: 1, Q: 1 } bid:  919
+serial:  320 cards:  QAK7K 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 12, 14, 13, 7, 13 ] card_count:  { '7': 1, K: 2, A: 1, Q: 1 } bid:  564
+serial:  321 cards:  KJ75Q 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 1, 7, 5, 12 ] card_count:  { '5': 1, '7': 1, Q: 1, K: 1 } bid:  369
+serial:  322 cards:  K2799 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 2, 7, 9, 9 ] card_count:  { '2': 1, '7': 1, '9': 2, K: 1 } bid:  969
+serial:  323 cards:  K35J6 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 3, 5, 1, 6 ] card_count:  { '3': 1, '5': 1, '6': 1, K: 1 } bid:  592
+serial:  324 cards:  K4T5T 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 4, 10, 5, 10 ] card_count:  { '4': 1, '5': 1, T: 2, K: 1 } bid:  724
+serial:  325 cards:  K57T7 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 5, 7, 10, 7 ] card_count:  { '5': 1, '7': 2, T: 1, K: 1 } bid:  43
+serial:  326 cards:  K6286 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 6, 2, 8, 6 ] card_count:  { '2': 1, '6': 2, '8': 1, K: 1 } bid:  663
+serial:  327 cards:  K9J46 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 9, 1, 4, 6 ] card_count:  { '4': 1, '6': 1, '9': 1, K: 1 } bid:  441
+serial:  328 cards:  K92AJ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 9, 2, 14, 1 ] card_count:  { '2': 1, '9': 1, A: 1, K: 1 } bid:  983
+serial:  329 cards:  K93JA 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 9, 3, 1, 14 ] card_count:  { '3': 1, '9': 1, A: 1, K: 1 } bid:  941
+serial:  330 cards:  KQJ69 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 12, 1, 6, 9 ] card_count:  { '6': 1, '9': 1, Q: 1, K: 1 } bid:  550
+serial:  331 cards:  KQ688 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 12, 6, 8, 8 ] card_count:  { '6': 1, '8': 2, Q: 1, K: 1 } bid:  238
+serial:  332 cards:  KQQ83 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 12, 12, 8, 3 ] card_count:  { '3': 1, '8': 1, Q: 2, K: 1 } bid:  547
+serial:  333 cards:  KK397 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 13, 3, 9, 7 ] card_count:  { '3': 1, '7': 1, '9': 1, K: 2 } bid:  408
+serial:  334 cards:  KK852 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 13, 8, 5, 2 ] card_count:  { '2': 1, '5': 1, '8': 1, K: 2 } bid:  922
+serial:  335 cards:  KA4A6 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 13, 14, 4, 14, 6 ] card_count:  { '4': 1, '6': 1, A: 2, K: 1 } bid:  828
+serial:  336 cards:  AJ546 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 1, 5, 4, 6 ] card_count:  { '4': 1, '5': 1, '6': 1, A: 1 } bid:  2
+serial:  337 cards:  A2J74 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 2, 1, 7, 4 ] card_count:  { '2': 1, '4': 1, '7': 1, A: 1 } bid:  154
+serial:  338 cards:  A2353 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 2, 3, 5, 3 ] card_count:  { '2': 1, '3': 2, '5': 1, A: 1 } bid:  688
+serial:  339 cards:  A3A5Q 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 3, 14, 5, 12 ] card_count:  { '3': 1, '5': 1, Q: 1, A: 2 } bid:  894
+serial:  340 cards:  A3AK8 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 3, 14, 13, 8 ] card_count:  { '3': 1, '8': 1, K: 1, A: 2 } bid:  298
+serial:  341 cards:  A44T6 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 4, 4, 10, 6 ] card_count:  { '4': 2, '6': 1, T: 1, A: 1 } bid:  81
+serial:  342 cards:  A478A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 4, 7, 8, 14 ] card_count:  { '4': 1, '7': 1, '8': 1, A: 2 } bid:  223
+serial:  343 cards:  A7838 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 7, 8, 3, 8 ] card_count:  { '3': 1, '7': 1, '8': 2, A: 1 } bid:  925
+serial:  344 cards:  A8T55 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 8, 10, 5, 5 ] card_count:  { '5': 2, '8': 1, T: 1, A: 1 } bid:  824
+serial:  345 cards:  A8T6T 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 8, 10, 6, 10 ] card_count:  { '6': 1, '8': 1, T: 2, A: 1 } bid:  180
+serial:  346 cards:  A9924 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 9, 9, 2, 4 ] card_count:  { '2': 1, '4': 1, '9': 2, A: 1 } bid:  309
+serial:  347 cards:  A9Q49 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 9, 12, 4, 9 ] card_count:  { '4': 1, '9': 2, Q: 1, A: 1 } bid:  755
+serial:  348 cards:  AT28A 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 10, 2, 8, 14 ] card_count:  { '2': 1, '8': 1, A: 2, T: 1 } bid:  803
+serial:  349 cards:  AK3K4 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 13, 3, 13, 4 ] card_count:  { '3': 1, '4': 1, K: 2, A: 1 } bid:  62
+serial:  350 cards:  AAJJJ 	type:  pair 	hand_value:  1000 rank_card_on_index:  [ 14, 14, 1, 1, 1 ] card_count:  { A: 2 } bid:  949
+serial:  351 cards:  22343 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 2, 2, 3, 4, 3 ] card_count:  { '2': 2, '3': 2, '4': 1 } bid:  749
+serial:  352 cards:  22K88 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 2, 2, 13, 8, 8 ] card_count:  { '2': 2, '8': 2, K: 1 } bid:  71
+serial:  353 cards:  23773 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 2, 3, 7, 7, 3 ] card_count:  { '2': 1, '3': 2, '7': 2 } bid:  980
+serial:  354 cards:  24274 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 2, 4, 2, 7, 4 ] card_count:  { '2': 2, '4': 2, '7': 1 } bid:  494
+serial:  355 cards:  266TT 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 2, 6, 6, 10, 10 ] card_count:  { '2': 1, '6': 2, T: 2 } bid:  72
+serial:  356 cards:  2T828 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 2, 10, 8, 2, 8 ] card_count:  { '2': 2, '8': 2, T: 1 } bid:  549
+serial:  357 cards:  2KK99 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 2, 13, 13, 9, 9 ] card_count:  { '2': 1, '9': 2, K: 2 } bid:  119
+serial:  358 cards:  2AA2Q 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 2, 14, 14, 2, 12 ] card_count:  { '2': 2, Q: 1, A: 2 } bid:  446
+serial:  359 cards:  338TT 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 3, 3, 8, 10, 10 ] card_count:  { '3': 2, '8': 1, T: 2 } bid:  393
+serial:  360 cards:  34394 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 3, 4, 3, 9, 4 ] card_count:  { '3': 2, '4': 2, '9': 1 } bid:  355
+serial:  361 cards:  34422 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 3, 4, 4, 2, 2 ] card_count:  { '2': 2, '3': 1, '4': 2 } bid:  790
+serial:  362 cards:  34A34 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 3, 4, 14, 3, 4 ] card_count:  { '3': 2, '4': 2, A: 1 } bid:  22
+serial:  363 cards:  35344 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 3, 5, 3, 4, 4 ] card_count:  { '3': 2, '4': 2, '5': 1 } bid:  267
+serial:  364 cards:  36634 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 3, 6, 6, 3, 4 ] card_count:  { '3': 2, '4': 1, '6': 2 } bid:  44
+serial:  365 cards:  37K3K 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 3, 7, 13, 3, 13 ] card_count:  { '3': 2, '7': 1, K: 2 } bid:  413
+serial:  366 cards:  399QQ 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 3, 9, 9, 12, 12 ] card_count:  { '3': 1, '9': 2, Q: 2 } bid:  479
+serial:  367 cards:  42288 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 2, 2, 8, 8 ] card_count:  { '2': 2, '4': 1, '8': 2 } bid:  731
+serial:  368 cards:  42924 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 2, 9, 2, 4 ] card_count:  { '2': 2, '4': 2, '9': 1 } bid:  672
+serial:  369 cards:  43634 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 3, 6, 3, 4 ] card_count:  { '3': 2, '4': 2, '6': 1 } bid:  304
+serial:  370 cards:  44525 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 4, 5, 2, 5 ] card_count:  { '2': 1, '4': 2, '5': 2 } bid:  906
+serial:  371 cards:  447A7 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 4, 7, 14, 7 ] card_count:  { '4': 2, '7': 2, A: 1 } bid:  947
+serial:  372 cards:  44Q3Q 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 4, 12, 3, 12 ] card_count:  { '3': 1, '4': 2, Q: 2 } bid:  610
+serial:  373 cards:  45242 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 5, 2, 4, 2 ] card_count:  { '2': 2, '4': 2, '5': 1 } bid:  228
+serial:  374 cards:  45564 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 5, 5, 6, 4 ] card_count:  { '4': 2, '5': 2, '6': 1 } bid:  725
+serial:  375 cards:  48664 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 8, 6, 6, 4 ] card_count:  { '4': 2, '6': 2, '8': 1 } bid:  175
+serial:  376 cards:  49489 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 9, 4, 8, 9 ] card_count:  { '4': 2, '8': 1, '9': 2 } bid:  763
+serial:  377 cards:  4T94T 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 10, 9, 4, 10 ] card_count:  { '4': 2, '9': 1, T: 2 } bid:  345
+serial:  378 cards:  4TA4T 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 10, 14, 4, 10 ] card_count:  { '4': 2, T: 2, A: 1 } bid:  996
+serial:  379 cards:  4Q99Q 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 12, 9, 9, 12 ] card_count:  { '4': 1, '9': 2, Q: 2 } bid:  944
+serial:  380 cards:  4A422 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 4, 14, 4, 2, 2 ] card_count:  { '2': 2, '4': 2, A: 1 } bid:  560
+serial:  381 cards:  52562 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 5, 2, 5, 6, 2 ] card_count:  { '2': 2, '5': 2, '6': 1 } bid:  992
+serial:  382 cards:  53566 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 5, 3, 5, 6, 6 ] card_count:  { '3': 1, '5': 2, '6': 2 } bid:  55
+serial:  383 cards:  55343 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 5, 5, 3, 4, 3 ] card_count:  { '3': 2, '4': 1, '5': 2 } bid:  653
+serial:  384 cards:  55AAQ 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 5, 5, 14, 14, 12 ] card_count:  { '5': 2, Q: 1, A: 2 } bid:  1000
+serial:  385 cards:  5885T 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 5, 8, 8, 5, 10 ] card_count:  { '5': 2, '8': 2, T: 1 } bid:  455
+serial:  386 cards:  59779 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 5, 9, 7, 7, 9 ] card_count:  { '5': 1, '7': 2, '9': 2 } bid:  437
+serial:  387 cards:  5QAQA 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 5, 12, 14, 12, 14 ] card_count:  { '5': 1, A: 2, Q: 2 } bid:  164
+serial:  388 cards:  644K6 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 6, 4, 4, 13, 6 ] card_count:  { '4': 2, '6': 2, K: 1 } bid:  518
+serial:  389 cards:  64T4T 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 6, 4, 10, 4, 10 ] card_count:  { '4': 2, '6': 1, T: 2 } bid:  534
+serial:  390 cards:  66272 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 6, 6, 2, 7, 2 ] card_count:  { '2': 2, '6': 2, '7': 1 } bid:  647
+serial:  391 cards:  662QQ 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 6, 6, 2, 12, 12 ] card_count:  { '2': 1, '6': 2, Q: 2 } bid:  181
+serial:  392 cards:  66545 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 6, 6, 5, 4, 5 ] card_count:  { '4': 1, '5': 2, '6': 2 } bid:  411
+serial:  393 cards:  66T4T 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 6, 6, 10, 4, 10 ] card_count:  { '4': 1, '6': 2, T: 2 } bid:  199
+serial:  394 cards:  66AA8 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 6, 6, 14, 14, 8 ] card_count:  { '6': 2, '8': 1, A: 2 } bid:  910
+serial:  395 cards:  6A565 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 6, 14, 5, 6, 5 ] card_count:  { '5': 2, '6': 2, A: 1 } bid:  420
+serial:  396 cards:  74479 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 4, 4, 7, 9 ] card_count:  { '4': 2, '7': 2, '9': 1 } bid:  589
+serial:  397 cards:  747KK 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 4, 7, 13, 13 ] card_count:  { '4': 1, '7': 2, K: 2 } bid:  365
+serial:  398 cards:  75725 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 5, 7, 2, 5 ] card_count:  { '2': 1, '5': 2, '7': 2 } bid:  529
+serial:  399 cards:  76633 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 6, 6, 3, 3 ] card_count:  { '3': 2, '6': 2, '7': 1 } bid:  13
+serial:  400 cards:  77262 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 7, 2, 6, 2 ] card_count:  { '2': 2, '6': 1, '7': 2 } bid:  643
+serial:  401 cards:  77288 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 7, 2, 8, 8 ] card_count:  { '2': 1, '7': 2, '8': 2 } bid:  646
+serial:  402 cards:  774K4 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 7, 4, 13, 4 ] card_count:  { '4': 2, '7': 2, K: 1 } bid:  92
+serial:  403 cards:  77533 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 7, 5, 3, 3 ] card_count:  { '3': 2, '5': 1, '7': 2 } bid:  608
+serial:  404 cards:  77929 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 7, 9, 2, 9 ] card_count:  { '2': 1, '7': 2, '9': 2 } bid:  412
+serial:  405 cards:  79A9A 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 9, 14, 9, 14 ] card_count:  { '7': 1, '9': 2, A: 2 } bid:  780
+serial:  406 cards:  7TK7K 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 10, 13, 7, 13 ] card_count:  { '7': 2, K: 2, T: 1 } bid:  685
+serial:  407 cards:  7AA22 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 7, 14, 14, 2, 2 ] card_count:  { '2': 2, '7': 1, A: 2 } bid:  243
+serial:  408 cards:  82Q82 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 8, 2, 12, 8, 2 ] card_count:  { '2': 2, '8': 2, Q: 1 } bid:  569
+serial:  409 cards:  8338K 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 8, 3, 3, 8, 13 ] card_count:  { '3': 2, '8': 2, K: 1 } bid:  978
+serial:  410 cards:  85989 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 8, 5, 9, 8, 9 ] card_count:  { '5': 1, '8': 2, '9': 2 } bid:  836
+serial:  411 cards:  86556 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 8, 6, 5, 5, 6 ] card_count:  { '5': 2, '6': 2, '8': 1 } bid:  188
+serial:  412 cards:  86585 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 8, 6, 5, 8, 5 ] card_count:  { '5': 2, '6': 1, '8': 2 } bid:  390
+serial:  413 cards:  87KK7 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 8, 7, 13, 13, 7 ] card_count:  { '7': 2, '8': 1, K: 2 } bid:  762
+serial:  414 cards:  89829 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 8, 9, 8, 2, 9 ] card_count:  { '2': 1, '8': 2, '9': 2 } bid:  130
+serial:  415 cards:  8998A 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 8, 9, 9, 8, 14 ] card_count:  { '8': 2, '9': 2, A: 1 } bid:  140
+serial:  416 cards:  8K38K 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 8, 13, 3, 8, 13 ] card_count:  { '3': 1, '8': 2, K: 2 } bid:  676
+serial:  417 cards:  9229K 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 2, 2, 9, 13 ] card_count:  { '2': 2, '9': 2, K: 1 } bid:  526
+serial:  418 cards:  92339 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 2, 3, 3, 9 ] card_count:  { '2': 1, '3': 2, '9': 2 } bid:  4
+serial:  419 cards:  92559 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 2, 5, 5, 9 ] card_count:  { '2': 1, '5': 2, '9': 2 } bid:  970
+serial:  420 cards:  92QQ9 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 2, 12, 12, 9 ] card_count:  { '2': 1, '9': 2, Q: 2 } bid:  278
+serial:  421 cards:  93QQ3 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 3, 12, 12, 3 ] card_count:  { '3': 2, '9': 1, Q: 2 } bid:  69
+serial:  422 cards:  94664 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 4, 6, 6, 4 ] card_count:  { '4': 2, '6': 2, '9': 1 } bid:  354
+serial:  423 cards:  97947 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 7, 9, 4, 7 ] card_count:  { '4': 1, '7': 2, '9': 2 } bid:  921
+serial:  424 cards:  979TT 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 7, 9, 10, 10 ] card_count:  { '7': 1, '9': 2, T: 2 } bid:  932
+serial:  425 cards:  97K9K 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 7, 13, 9, 13 ] card_count:  { '7': 1, '9': 2, K: 2 } bid:  615
+serial:  426 cards:  9944K 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 9, 4, 4, 13 ] card_count:  { '4': 2, '9': 2, K: 1 } bid:  453
+serial:  427 cards:  99A66 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 9, 14, 6, 6 ] card_count:  { '6': 2, '9': 2, A: 1 } bid:  631
+serial:  428 cards:  9TTQ9 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 10, 10, 12, 9 ] card_count:  { '9': 2, Q: 1, T: 2 } bid:  163
+serial:  429 cards:  9Q393 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 12, 3, 9, 3 ] card_count:  { '3': 2, '9': 2, Q: 1 } bid:  584
+serial:  430 cards:  9A9QA 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 14, 9, 12, 14 ] card_count:  { '9': 2, A: 2, Q: 1 } bid:  634
+serial:  431 cards:  9AA49 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 9, 14, 14, 4, 9 ] card_count:  { '4': 1, '9': 2, A: 2 } bid:  927
+serial:  432 cards:  T433T 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 4, 3, 3, 10 ] card_count:  { '3': 2, '4': 1, T: 2 } bid:  952
+serial:  433 cards:  T6T69 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 6, 10, 6, 9 ] card_count:  { '6': 2, '9': 1, T: 2 } bid:  732
+serial:  434 cards:  T72T7 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 7, 2, 10, 7 ] card_count:  { '2': 1, '7': 2, T: 2 } bid:  482
+serial:  435 cards:  T77TA 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 7, 7, 10, 14 ] card_count:  { '7': 2, A: 1, T: 2 } bid:  162
+serial:  436 cards:  T8833 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 8, 8, 3, 3 ] card_count:  { '3': 2, '8': 2, T: 1 } bid:  588
+serial:  437 cards:  T8T8A 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 8, 10, 8, 14 ] card_count:  { '8': 2, A: 1, T: 2 } bid:  54
+serial:  438 cards:  T9922 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 9, 9, 2, 2 ] card_count:  { '2': 2, '9': 2, T: 1 } bid:  265
+serial:  439 cards:  TT252 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 10, 2, 5, 2 ] card_count:  { '2': 2, '5': 1, T: 2 } bid:  508
+serial:  440 cards:  TT388 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 10, 3, 8, 8 ] card_count:  { '3': 1, '8': 2, T: 2 } bid:  976
+serial:  441 cards:  TT3A3 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 10, 3, 14, 3 ] card_count:  { '3': 2, A: 1, T: 2 } bid:  366
+serial:  442 cards:  TATKA 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 10, 14, 10, 13, 14 ] card_count:  { A: 2, K: 1, T: 2 } bid:  218
+serial:  443 cards:  Q2266 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 12, 2, 2, 6, 6 ] card_count:  { '2': 2, '6': 2, Q: 1 } bid:  794
+serial:  444 cards:  Q6Q6T 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 12, 6, 12, 6, 10 ] card_count:  { '6': 2, T: 1, Q: 2 } bid:  974
+serial:  445 cards:  Q6Q77 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 12, 6, 12, 7, 7 ] card_count:  { '6': 1, '7': 2, Q: 2 } bid:  559
+serial:  446 cards:  Q8844 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 12, 8, 8, 4, 4 ] card_count:  { '4': 2, '8': 2, Q: 1 } bid:  786
+serial:  447 cards:  Q8Q33 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 12, 8, 12, 3, 3 ] card_count:  { '3': 2, '8': 1, Q: 2 } bid:  538
+serial:  448 cards:  QQ282 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 12, 12, 2, 8, 2 ] card_count:  { '2': 2, '8': 1, Q: 2 } bid:  313
+serial:  449 cards:  QAAQT 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 12, 14, 14, 12, 10 ] card_count:  { T: 1, Q: 2, A: 2 } bid:  665
+serial:  450 cards:  K33AK 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 3, 3, 14, 13 ] card_count:  { '3': 2, K: 2, A: 1 } bid:  400
+serial:  451 cards:  K3K44 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 3, 13, 4, 4 ] card_count:  { '3': 1, '4': 2, K: 2 } bid:  310
+serial:  452 cards:  K3K77 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 3, 13, 7, 7 ] card_count:  { '3': 1, '7': 2, K: 2 } bid:  986
+serial:  453 cards:  K4K46 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 4, 13, 4, 6 ] card_count:  { '4': 2, '6': 1, K: 2 } bid:  254
+serial:  454 cards:  K5335 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 5, 3, 3, 5 ] card_count:  { '3': 2, '5': 2, K: 1 } bid:  152
+serial:  455 cards:  K5AA5 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 5, 14, 14, 5 ] card_count:  { '5': 2, A: 2, K: 1 } bid:  429
+serial:  456 cards:  K8844 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 8, 8, 4, 4 ] card_count:  { '4': 2, '8': 2, K: 1 } bid:  459
+serial:  457 cards:  K8866 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 8, 8, 6, 6 ] card_count:  { '6': 2, '8': 2, K: 1 } bid:  915
+serial:  458 cards:  K99KT 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 9, 9, 13, 10 ] card_count:  { '9': 2, T: 1, K: 2 } bid:  158
+serial:  459 cards:  K99AA 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 9, 9, 14, 14 ] card_count:  { '9': 2, A: 2, K: 1 } bid:  777
+serial:  460 cards:  K9K33 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 9, 13, 3, 3 ] card_count:  { '3': 2, '9': 1, K: 2 } bid:  816
+serial:  461 cards:  KQK44 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 12, 13, 4, 4 ] card_count:  { '4': 2, K: 2, Q: 1 } bid:  882
+serial:  462 cards:  KK233 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 13, 2, 3, 3 ] card_count:  { '2': 1, '3': 2, K: 2 } bid:  329
+serial:  463 cards:  KK667 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 13, 6, 6, 7 ] card_count:  { '6': 2, '7': 1, K: 2 } bid:  558
+serial:  464 cards:  KAKA6 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 13, 14, 13, 14, 6 ] card_count:  { '6': 1, A: 2, K: 2 } bid:  855
+serial:  465 cards:  A2727 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 14, 2, 7, 2, 7 ] card_count:  { '2': 2, '7': 2, A: 1 } bid:  410
+serial:  466 cards:  A399A 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 14, 3, 9, 9, 14 ] card_count:  { '3': 1, '9': 2, A: 2 } bid:  110
+serial:  467 cards:  A665A 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 14, 6, 6, 5, 14 ] card_count:  { '5': 1, '6': 2, A: 2 } bid:  84
+serial:  468 cards:  A696A 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 14, 6, 9, 6, 14 ] card_count:  { '6': 2, '9': 1, A: 2 } bid:  950
+serial:  469 cards:  A77AQ 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 14, 7, 7, 14, 12 ] card_count:  { '7': 2, Q: 1, A: 2 } bid:  896
+serial:  470 cards:  A7A87 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 14, 7, 14, 8, 7 ] card_count:  { '7': 2, '8': 1, A: 2 } bid:  142
+serial:  471 cards:  AA788 	type:  two pairs 	hand_value:  2000 rank_card_on_index:  [ 14, 14, 7, 8, 8 ] card_count:  { '7': 1, '8': 2, A: 2 } bid:  87
+serial:  472 cards:  J2K77 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 2, 13, 7, 7 ] card_count:  { '2': 1, '7': 2, K: 1 } bid:  443
+serial:  473 cards:  J5859 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 5, 8, 5, 9 ] card_count:  { '5': 2, '8': 1, '9': 1 } bid:  230
+serial:  474 cards:  J6A6Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 6, 14, 6, 12 ] card_count:  { '6': 2, Q: 1, A: 1 } bid:  135
+serial:  475 cards:  J77K3 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 7, 7, 13, 3 ] card_count:  { '3': 1, '7': 2, K: 1 } bid:  297
+serial:  476 cards:  J8A44 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 8, 14, 4, 4 ] card_count:  { '4': 2, '8': 1, A: 1 } bid:  931
+serial:  477 cards:  J8A66 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 8, 14, 6, 6 ] card_count:  { '6': 2, '8': 1, A: 1 } bid:  531
+serial:  478 cards:  J8AQA 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 8, 14, 12, 14 ] card_count:  { '8': 1, A: 2, Q: 1 } bid:  67
+serial:  479 cards:  J8AKA 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 8, 14, 13, 14 ] card_count:  { '8': 1, A: 2, K: 1 } bid:  682
+serial:  480 cards:  J9694 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 9, 6, 9, 4 ] card_count:  { '4': 1, '6': 1, '9': 2 } bid:  616
+serial:  481 cards:  J9976 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 9, 9, 7, 6 ] card_count:  { '6': 1, '7': 1, '9': 2 } bid:  869
+serial:  482 cards:  JT8T5 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 10, 8, 10, 5 ] card_count:  { '5': 1, '8': 1, T: 2 } bid:  352
+serial:  483 cards:  JTKK9 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 10, 13, 13, 9 ] card_count:  { '9': 1, K: 2, T: 1 } bid:  505
+serial:  484 cards:  JQ3Q9 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 12, 3, 12, 9 ] card_count:  { '3': 1, '9': 1, Q: 2 } bid:  601
+serial:  485 cards:  JQ85Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 12, 8, 5, 12 ] card_count:  { '5': 1, '8': 1, Q: 2 } bid:  423
+serial:  486 cards:  JA22Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 14, 2, 2, 12 ] card_count:  { '2': 2, Q: 1, A: 1 } bid:  184
+serial:  487 cards:  JA454 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 14, 4, 5, 4 ] card_count:  { '4': 2, '5': 1, A: 1 } bid:  587
+serial:  488 cards:  JA6KA 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 1, 14, 6, 13, 14 ] card_count:  { '6': 1, A: 2, K: 1 } bid:  863
+serial:  489 cards:  2JQ2T 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 1, 12, 2, 10 ] card_count:  { '2': 2, T: 1, Q: 1 } bid:  832
+serial:  490 cards:  2JQK2 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 1, 12, 13, 2 ] card_count:  { '2': 2, K: 1, Q: 1 } bid:  578
+serial:  491 cards:  22526 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 2, 5, 2, 6 ] card_count:  { '2': 3, '5': 1, '6': 1 } bid:  490
+serial:  492 cards:  229K2 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 2, 9, 13, 2 ] card_count:  { '2': 3, '9': 1, K: 1 } bid:  827
+serial:  493 cards:  22Q5J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 2, 12, 5, 1 ] card_count:  { '2': 2, '5': 1, Q: 1 } bid:  276
+serial:  494 cards:  238J2 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 3, 8, 1, 2 ] card_count:  { '2': 2, '3': 1, '8': 1 } bid:  442
+serial:  495 cards:  24Q22 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 4, 12, 2, 2 ] card_count:  { '2': 3, '4': 1, Q: 1 } bid:  131
+serial:  496 cards:  26QJQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 6, 12, 1, 12 ] card_count:  { '2': 1, '6': 1, Q: 2 } bid:  398
+serial:  497 cards:  27K2J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 7, 13, 2, 1 ] card_count:  { '2': 2, '7': 1, K: 1 } bid:  533
+serial:  498 cards:  28227 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 8, 2, 2, 7 ] card_count:  { '2': 3, '7': 1, '8': 1 } bid:  363
+serial:  499 cards:  283J8 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 8, 3, 1, 8 ] card_count:  { '2': 1, '3': 1, '8': 2 } bid:  698
+serial:  500 cards:  2TJ52 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 10, 1, 5, 2 ] card_count:  { '2': 2, '5': 1, T: 1 } bid:  840
+serial:  501 cards:  2T272 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 10, 2, 7, 2 ] card_count:  { '2': 3, '7': 1, T: 1 } bid:  951
+serial:  502 cards:  2Q555 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 2, 12, 5, 5, 5 ] card_count:  { '2': 1, '5': 3, Q: 1 } bid:  565
+serial:  503 cards:  3J7A7 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 1, 7, 14, 7 ] card_count:  { '3': 1, '7': 2, A: 1 } bid:  530
+serial:  504 cards:  3J8T8 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 1, 8, 10, 8 ] card_count:  { '3': 1, '8': 2, T: 1 } bid:  210
+serial:  505 cards:  32555 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 2, 5, 5, 5 ] card_count:  { '2': 1, '3': 1, '5': 3 } bid:  125
+serial:  506 cards:  33J76 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 3, 1, 7, 6 ] card_count:  { '3': 2, '6': 1, '7': 1 } bid:  197
+serial:  507 cards:  33QKJ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 3, 12, 13, 1 ] card_count:  { '3': 2, K: 1, Q: 1 } bid:  555
+serial:  508 cards:  34449 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 4, 4, 4, 9 ] card_count:  { '3': 1, '4': 3, '9': 1 } bid:  156
+serial:  509 cards:  344A4 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 4, 4, 14, 4 ] card_count:  { '3': 1, '4': 3, A: 1 } bid:  618
+serial:  510 cards:  35J99 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 5, 1, 9, 9 ] card_count:  { '3': 1, '5': 1, '9': 2 } bid:  349
+serial:  511 cards:  36Q66 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 6, 12, 6, 6 ] card_count:  { '3': 1, '6': 3, Q: 1 } bid:  789
+serial:  512 cards:  376J7 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 7, 6, 1, 7 ] card_count:  { '3': 1, '6': 1, '7': 2 } bid:  93
+serial:  513 cards:  38777 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 8, 7, 7, 7 ] card_count:  { '3': 1, '7': 3, '8': 1 } bid:  684
+serial:  514 cards:  39699 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 9, 6, 9, 9 ] card_count:  { '3': 1, '6': 1, '9': 3 } bid:  469
+serial:  515 cards:  39K3J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 9, 13, 3, 1 ] card_count:  { '3': 2, '9': 1, K: 1 } bid:  765
+serial:  516 cards:  3T433 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 10, 4, 3, 3 ] card_count:  { '3': 3, '4': 1, T: 1 } bid:  418
+serial:  517 cards:  3Q335 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 12, 3, 3, 5 ] card_count:  { '3': 3, '5': 1, Q: 1 } bid:  966
+serial:  518 cards:  3Q7QQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 12, 7, 12, 12 ] card_count:  { '3': 1, '7': 1, Q: 3 } bid:  775
+serial:  519 cards:  3Q99J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 3, 12, 9, 9, 1 ] card_count:  { '3': 1, '9': 2, Q: 1 } bid:  830
+serial:  520 cards:  4J22Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 1, 2, 2, 12 ] card_count:  { '2': 2, '4': 1, Q: 1 } bid:  203
+serial:  521 cards:  4J266 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 1, 2, 6, 6 ] card_count:  { '2': 1, '4': 1, '6': 2 } bid:  875
+serial:  522 cards:  4J677 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 1, 6, 7, 7 ] card_count:  { '4': 1, '6': 1, '7': 2 } bid:  234
+serial:  523 cards:  43337 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 3, 3, 3, 7 ] card_count:  { '3': 3, '4': 1, '7': 1 } bid:  678
+serial:  524 cards:  43533 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 3, 5, 3, 3 ] card_count:  { '3': 3, '4': 1, '5': 1 } bid:  511
+serial:  525 cards:  4447T 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 4, 4, 7, 10 ] card_count:  { '4': 3, '7': 1, T: 1 } bid:  432
+serial:  526 cards:  4484Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 4, 8, 4, 12 ] card_count:  { '4': 3, '8': 1, Q: 1 } bid:  891
+serial:  527 cards:  44Q74 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 4, 12, 7, 4 ] card_count:  { '4': 3, '7': 1, Q: 1 } bid:  386
+serial:  528 cards:  44QK4 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 4, 12, 13, 4 ] card_count:  { '4': 3, K: 1, Q: 1 } bid:  940
+serial:  529 cards:  46443 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 6, 4, 4, 3 ] card_count:  { '3': 1, '4': 3, '6': 1 } bid:  997
+serial:  530 cards:  47464 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 7, 4, 6, 4 ] card_count:  { '4': 3, '6': 1, '7': 1 } bid:  340
+serial:  531 cards:  48999 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 8, 9, 9, 9 ] card_count:  { '4': 1, '8': 1, '9': 3 } bid:  503
+serial:  532 cards:  4T5J4 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 10, 5, 1, 4 ] card_count:  { '4': 2, '5': 1, T: 1 } bid:  509
+serial:  533 cards:  4T944 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 10, 9, 4, 4 ] card_count:  { '4': 3, '9': 1, T: 1 } bid:  939
+serial:  534 cards:  4TTKJ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 10, 10, 13, 1 ] card_count:  { '4': 1, K: 1, T: 2 } bid:  50
+serial:  535 cards:  4TAAA 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 10, 14, 14, 14 ] card_count:  { '4': 1, A: 3, T: 1 } bid:  34
+serial:  536 cards:  4QJ43 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 12, 1, 4, 3 ] card_count:  { '3': 1, '4': 2, Q: 1 } bid:  431
+serial:  537 cards:  4K5KK 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 4, 13, 5, 13, 13 ] card_count:  { '4': 1, '5': 1, K: 3 } bid:  45
+serial:  538 cards:  5J523 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 1, 5, 2, 3 ] card_count:  { '2': 1, '3': 1, '5': 2 } bid:  83
+serial:  539 cards:  52822 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 2, 8, 2, 2 ] card_count:  { '2': 3, '5': 1, '8': 1 } bid:  145
+serial:  540 cards:  53999 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 3, 9, 9, 9 ] card_count:  { '3': 1, '5': 1, '9': 3 } bid:  11
+serial:  541 cards:  55245 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 5, 2, 4, 5 ] card_count:  { '2': 1, '4': 1, '5': 3 } bid:  537
+serial:  542 cards:  55357 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 5, 3, 5, 7 ] card_count:  { '3': 1, '5': 3, '7': 1 } bid:  449
+serial:  543 cards:  55453 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 5, 4, 5, 3 ] card_count:  { '3': 1, '4': 1, '5': 3 } bid:  282
+serial:  544 cards:  56JAA 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 6, 1, 14, 14 ] card_count:  { '5': 1, '6': 1, A: 2 } bid:  224
+serial:  545 cards:  57J79 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 7, 1, 7, 9 ] card_count:  { '5': 1, '7': 2, '9': 1 } bid:  356
+serial:  546 cards:  57333 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 7, 3, 3, 3 ] card_count:  { '3': 3, '5': 1, '7': 1 } bid:  358
+serial:  547 cards:  5754J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 7, 5, 4, 1 ] card_count:  { '4': 1, '5': 2, '7': 1 } bid:  769
+serial:  548 cards:  57565 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 7, 5, 6, 5 ] card_count:  { '5': 3, '6': 1, '7': 1 } bid:  439
+serial:  549 cards:  595J4 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 9, 5, 1, 4 ] card_count:  { '4': 1, '5': 2, '9': 1 } bid:  206
+serial:  550 cards:  5998J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 9, 9, 8, 1 ] card_count:  { '5': 1, '8': 1, '9': 2 } bid:  65
+serial:  551 cards:  5999A 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 9, 9, 9, 14 ] card_count:  { '5': 1, '9': 3, A: 1 } bid:  416
+serial:  552 cards:  5Q5K5 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 12, 5, 13, 5 ] card_count:  { '5': 3, K: 1, Q: 1 } bid:  651
+serial:  553 cards:  5QQKQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 12, 12, 13, 12 ] card_count:  { '5': 1, Q: 3, K: 1 } bid:  985
+serial:  554 cards:  5K355 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 13, 3, 5, 5 ] card_count:  { '3': 1, '5': 3, K: 1 } bid:  312
+serial:  555 cards:  5KQJK 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 13, 12, 1, 13 ] card_count:  { '5': 1, K: 2, Q: 1 } bid:  346
+serial:  556 cards:  5AJK5 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 14, 1, 13, 5 ] card_count:  { '5': 2, K: 1, A: 1 } bid:  548
+serial:  557 cards:  5A585 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 5, 14, 5, 8, 5 ] card_count:  { '5': 3, '8': 1, A: 1 } bid:  80
+serial:  558 cards:  6J755 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 1, 7, 5, 5 ] card_count:  { '5': 2, '6': 1, '7': 1 } bid:  979
+serial:  559 cards:  62224 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 2, 2, 2, 4 ] card_count:  { '2': 3, '4': 1, '6': 1 } bid:  100
+serial:  560 cards:  65J54 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 5, 1, 5, 4 ] card_count:  { '4': 1, '5': 2, '6': 1 } bid:  937
+serial:  561 cards:  662AJ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 6, 2, 14, 1 ] card_count:  { '2': 1, '6': 2, A: 1 } bid:  361
+serial:  562 cards:  66564 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 6, 5, 6, 4 ] card_count:  { '4': 1, '5': 1, '6': 3 } bid:  129
+serial:  563 cards:  666TK 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 6, 6, 10, 13 ] card_count:  { '6': 3, K: 1, T: 1 } bid:  30
+serial:  564 cards:  6676T 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 6, 7, 6, 10 ] card_count:  { '6': 3, '7': 1, T: 1 } bid:  708
+serial:  565 cards:  66967 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 6, 9, 6, 7 ] card_count:  { '6': 3, '7': 1, '9': 1 } bid:  528
+serial:  566 cards:  66T6A 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 6, 10, 6, 14 ] card_count:  { '6': 3, A: 1, T: 1 } bid:  476
+serial:  567 cards:  67977 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 7, 9, 7, 7 ] card_count:  { '6': 1, '7': 3, '9': 1 } bid:  942
+serial:  568 cards:  68566 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 8, 5, 6, 6 ] card_count:  { '5': 1, '6': 3, '8': 1 } bid:  739
+serial:  569 cards:  68662 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 8, 6, 6, 2 ] card_count:  { '2': 1, '6': 3, '8': 1 } bid:  758
+serial:  570 cards:  688T8 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 8, 8, 10, 8 ] card_count:  { '6': 1, '8': 3, T: 1 } bid:  583
+serial:  571 cards:  68TJ8 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 8, 10, 1, 8 ] card_count:  { '6': 1, '8': 2, T: 1 } bid:  59
+serial:  572 cards:  6KJK2 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 13, 1, 13, 2 ] card_count:  { '2': 1, '6': 1, K: 2 } bid:  675
+serial:  573 cards:  6K66Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 13, 6, 6, 12 ] card_count:  { '6': 3, Q: 1, K: 1 } bid:  598
+serial:  574 cards:  6A444 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 6, 14, 4, 4, 4 ] card_count:  { '4': 3, '6': 1, A: 1 } bid:  257
+serial:  575 cards:  7J275 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 1, 2, 7, 5 ] card_count:  { '2': 1, '5': 1, '7': 2 } bid:  70
+serial:  576 cards:  7J7A5 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 1, 7, 14, 5 ] card_count:  { '5': 1, '7': 2, A: 1 } bid:  37
+serial:  577 cards:  72444 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 2, 4, 4, 4 ] card_count:  { '2': 1, '4': 3, '7': 1 } bid:  764
+serial:  578 cards:  7262J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 2, 6, 2, 1 ] card_count:  { '2': 2, '6': 1, '7': 1 } bid:  510
+serial:  579 cards:  72767 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 2, 7, 6, 7 ] card_count:  { '2': 1, '6': 1, '7': 3 } bid:  613
+serial:  580 cards:  7375J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 3, 7, 5, 1 ] card_count:  { '3': 1, '5': 1, '7': 2 } bid:  726
+serial:  581 cards:  74773 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 4, 7, 7, 3 ] card_count:  { '3': 1, '4': 1, '7': 3 } bid:  892
+serial:  582 cards:  74778 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 4, 7, 7, 8 ] card_count:  { '4': 1, '7': 3, '8': 1 } bid:  344
+serial:  583 cards:  755A5 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 5, 5, 14, 5 ] card_count:  { '5': 3, '7': 1, A: 1 } bid:  536
+serial:  584 cards:  75776 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 5, 7, 7, 6 ] card_count:  { '5': 1, '6': 1, '7': 3 } bid:  149
+serial:  585 cards:  7737A 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 7, 3, 7, 14 ] card_count:  { '3': 1, '7': 3, A: 1 } bid:  270
+serial:  586 cards:  7747A 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 7, 4, 7, 14 ] card_count:  { '4': 1, '7': 3, A: 1 } bid:  844
+serial:  587 cards:  77573 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 7, 5, 7, 3 ] card_count:  { '3': 1, '5': 1, '7': 3 } bid:  143
+serial:  588 cards:  79333 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 9, 3, 3, 3 ] card_count:  { '3': 3, '7': 1, '9': 1 } bid:  236
+serial:  589 cards:  7K737 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 13, 7, 3, 7 ] card_count:  { '3': 1, '7': 3, K: 1 } bid:  305
+serial:  590 cards:  7AQQQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 14, 12, 12, 12 ] card_count:  { '7': 1, Q: 3, A: 1 } bid:  835
+serial:  591 cards:  7AAA4 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 7, 14, 14, 14, 4 ] card_count:  { '4': 1, '7': 1, A: 3 } bid:  943
+serial:  592 cards:  83222 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 3, 2, 2, 2 ] card_count:  { '2': 3, '3': 1, '8': 1 } bid:  703
+serial:  593 cards:  83323 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 3, 3, 2, 3 ] card_count:  { '2': 1, '3': 3, '8': 1 } bid:  271
+serial:  594 cards:  83393 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 3, 3, 9, 3 ] card_count:  { '3': 3, '8': 1, '9': 1 } bid:  545
+serial:  595 cards:  83T33 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 3, 10, 3, 3 ] card_count:  { '3': 3, '8': 1, T: 1 } bid:  878
+serial:  596 cards:  84J34 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 4, 1, 3, 4 ] card_count:  { '3': 1, '4': 2, '8': 1 } bid:  35
+serial:  597 cards:  85535 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 5, 5, 3, 5 ] card_count:  { '3': 1, '5': 3, '8': 1 } bid:  415
+serial:  598 cards:  85557 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 5, 5, 5, 7 ] card_count:  { '5': 3, '7': 1, '8': 1 } bid:  574
+serial:  599 cards:  85886 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 5, 8, 8, 6 ] card_count:  { '5': 1, '6': 1, '8': 3 } bid:  118
+serial:  600 cards:  87858 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 7, 8, 5, 8 ] card_count:  { '5': 1, '7': 1, '8': 3 } bid:  200
+serial:  601 cards:  88J75 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 8, 1, 7, 5 ] card_count:  { '5': 1, '7': 1, '8': 2 } bid:  322
+serial:  602 cards:  887JA 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 8, 7, 1, 14 ] card_count:  { '7': 1, '8': 2, A: 1 } bid:  252
+serial:  603 cards:  88843 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 8, 8, 4, 3 ] card_count:  { '3': 1, '4': 1, '8': 3 } bid:  636
+serial:  604 cards:  88986 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 8, 9, 8, 6 ] card_count:  { '6': 1, '8': 3, '9': 1 } bid:  350
+serial:  605 cards:  894J9 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 9, 4, 1, 9 ] card_count:  { '4': 1, '8': 1, '9': 2 } bid:  733
+serial:  606 cards:  8TQQQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 10, 12, 12, 12 ] card_count:  { '8': 1, Q: 3, T: 1 } bid:  211
+serial:  607 cards:  8Q33J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 12, 3, 3, 1 ] card_count:  { '3': 2, '8': 1, Q: 1 } bid:  102
+serial:  608 cards:  8K882 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 13, 8, 8, 2 ] card_count:  { '2': 1, '8': 3, K: 1 } bid:  920
+serial:  609 cards:  8A3J3 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 8, 14, 3, 1, 3 ] card_count:  { '3': 2, '8': 1, A: 1 } bid:  847
+serial:  610 cards:  92333 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 2, 3, 3, 3 ] card_count:  { '2': 1, '3': 3, '9': 1 } bid:  198
+serial:  611 cards:  92TJ2 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 2, 10, 1, 2 ] card_count:  { '2': 2, '9': 1, T: 1 } bid:  898
+serial:  612 cards:  939Q9 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 3, 9, 12, 9 ] card_count:  { '3': 1, '9': 3, Q: 1 } bid:  716
+serial:  613 cards:  95JA5 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 5, 1, 14, 5 ] card_count:  { '5': 2, '9': 1, A: 1 } bid:  516
+serial:  614 cards:  95557 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 5, 5, 5, 7 ] card_count:  { '5': 3, '7': 1, '9': 1 } bid:  64
+serial:  615 cards:  96K9J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 6, 13, 9, 1 ] card_count:  { '6': 1, '9': 2, K: 1 } bid:  173
+serial:  616 cards:  9729J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 7, 2, 9, 1 ] card_count:  { '2': 1, '7': 1, '9': 2 } bid:  693
+serial:  617 cards:  977TJ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 7, 7, 10, 1 ] card_count:  { '7': 2, '9': 1, T: 1 } bid:  785
+serial:  618 cards:  979JT 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 7, 9, 1, 10 ] card_count:  { '7': 1, '9': 2, T: 1 } bid:  899
+serial:  619 cards:  99JK3 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 9, 1, 13, 3 ] card_count:  { '3': 1, '9': 2, K: 1 } bid:  74
+serial:  620 cards:  992J3 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 9, 2, 1, 3 ] card_count:  { '2': 1, '3': 1, '9': 2 } bid:  554
+serial:  621 cards:  997K9 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 9, 7, 13, 9 ] card_count:  { '7': 1, '9': 3, K: 1 } bid:  128
+serial:  622 cards:  99968 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 9, 9, 6, 8 ] card_count:  { '6': 1, '8': 1, '9': 3 } bid:  12
+serial:  623 cards:  9QT99 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 12, 10, 9, 9 ] card_count:  { '9': 3, T: 1, Q: 1 } bid:  704
+serial:  624 cards:  9K7KK 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 13, 7, 13, 13 ] card_count:  { '7': 1, '9': 1, K: 3 } bid:  220
+serial:  625 cards:  9K9Q9 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 13, 9, 12, 9 ] card_count:  { '9': 3, Q: 1, K: 1 } bid:  674
+serial:  626 cards:  9AJA4 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 9, 14, 1, 14, 4 ] card_count:  { '4': 1, '9': 1, A: 2 } bid:  168
+serial:  627 cards:  T2226 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 2, 2, 2, 6 ] card_count:  { '2': 3, '6': 1, T: 1 } bid:  284
+serial:  628 cards:  T2TT7 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 2, 10, 10, 7 ] card_count:  { '2': 1, '7': 1, T: 3 } bid:  147
+serial:  629 cards:  T3J93 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 3, 1, 9, 3 ] card_count:  { '3': 2, '9': 1, T: 1 } bid:  696
+serial:  630 cards:  T3JT9 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 3, 1, 10, 9 ] card_count:  { '3': 1, '9': 1, T: 2 } bid:  893
+serial:  631 cards:  T36J3 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 3, 6, 1, 3 ] card_count:  { '3': 2, '6': 1, T: 1 } bid:  17
+serial:  632 cards:  T4666 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 4, 6, 6, 6 ] card_count:  { '4': 1, '6': 3, T: 1 } bid:  190
+serial:  633 cards:  T6636 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 6, 6, 3, 6 ] card_count:  { '3': 1, '6': 3, T: 1 } bid:  347
+serial:  634 cards:  T676J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 6, 7, 6, 1 ] card_count:  { '6': 2, '7': 1, T: 1 } bid:  823
+serial:  635 cards:  T68J6 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 6, 8, 1, 6 ] card_count:  { '6': 2, '8': 1, T: 1 } bid:  195
+serial:  636 cards:  T7T8T 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 7, 10, 8, 10 ] card_count:  { '7': 1, '8': 1, T: 3 } bid:  448
+serial:  637 cards:  T7TAT 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 7, 10, 14, 10 ] card_count:  { '7': 1, T: 3, A: 1 } bid:  447
+serial:  638 cards:  T7Q7J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 7, 12, 7, 1 ] card_count:  { '7': 2, Q: 1, T: 1 } bid:  396
+serial:  639 cards:  T7AJ7 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 7, 14, 1, 7 ] card_count:  { '7': 2, A: 1, T: 1 } bid:  334
+serial:  640 cards:  T89J9 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 8, 9, 1, 9 ] card_count:  { '8': 1, '9': 2, T: 1 } bid:  38
+serial:  641 cards:  T8T3T 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 8, 10, 3, 10 ] card_count:  { '3': 1, '8': 1, T: 3 } bid:  792
+serial:  642 cards:  T9777 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 9, 7, 7, 7 ] card_count:  { '7': 3, '9': 1, T: 1 } bid:  323
+serial:  643 cards:  TTJ8Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 10, 1, 8, 12 ] card_count:  { '8': 1, Q: 1, T: 2 } bid:  632
+serial:  644 cards:  TT5T2 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 10, 5, 10, 2 ] card_count:  { '2': 1, '5': 1, T: 3 } bid:  266
+serial:  645 cards:  TT7QT 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 10, 7, 12, 10 ] card_count:  { '7': 1, T: 3, Q: 1 } bid:  507
+serial:  646 cards:  TTT53 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 10, 10, 5, 3 ] card_count:  { '3': 1, '5': 1, T: 3 } bid:  859
+serial:  647 cards:  TTQ5T 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 10, 12, 5, 10 ] card_count:  { '5': 1, T: 3, Q: 1 } bid:  962
+serial:  648 cards:  TQ8JQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 12, 8, 1, 12 ] card_count:  { '8': 1, Q: 2, T: 1 } bid:  884
+serial:  649 cards:  TQQ4J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 10, 12, 12, 4, 1 ] card_count:  { '4': 1, Q: 2, T: 1 } bid:  381
+serial:  650 cards:  Q35QQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 3, 5, 12, 12 ] card_count:  { '3': 1, '5': 1, Q: 3 } bid:  1
+serial:  651 cards:  Q3QJ6 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 3, 12, 1, 6 ] card_count:  { '3': 1, '6': 1, Q: 2 } bid:  580
+serial:  652 cards:  Q4443 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 4, 4, 4, 3 ] card_count:  { '3': 1, '4': 3, Q: 1 } bid:  734
+serial:  653 cards:  Q5QJ4 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 5, 12, 1, 4 ] card_count:  { '4': 1, '5': 1, Q: 2 } bid:  573
+serial:  654 cards:  Q6AAA 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 6, 14, 14, 14 ] card_count:  { '6': 1, A: 3, Q: 1 } bid:  486
+serial:  655 cards:  Q8J4Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 8, 1, 4, 12 ] card_count:  { '4': 1, '8': 1, Q: 2 } bid:  472
+serial:  656 cards:  Q9KKK 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 9, 13, 13, 13 ] card_count:  { '9': 1, K: 3, Q: 1 } bid:  213
+serial:  657 cards:  QTTT6 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 10, 10, 10, 6 ] card_count:  { '6': 1, T: 3, Q: 1 } bid:  319
+serial:  658 cards:  QQ9KQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 12, 9, 13, 12 ] card_count:  { '9': 1, Q: 3, K: 1 } bid:  825
+serial:  659 cards:  QQQ79 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 12, 12, 7, 9 ] card_count:  { '7': 1, '9': 1, Q: 3 } bid:  167
+serial:  660 cards:  QQQ8A 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 12, 12, 8, 14 ] card_count:  { '8': 1, A: 1, Q: 3 } bid:  374
+serial:  661 cards:  QQQ9T 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 12, 12, 9, 10 ] card_count:  { '9': 1, T: 1, Q: 3 } bid:  988
+serial:  662 cards:  QQQT6 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 12, 12, 10, 6 ] card_count:  { '6': 1, T: 1, Q: 3 } bid:  126
+serial:  663 cards:  QQKJ6 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 12, 13, 1, 6 ] card_count:  { '6': 1, K: 1, Q: 2 } bid:  454
+serial:  664 cards:  QK777 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 13, 7, 7, 7 ] card_count:  { '7': 3, K: 1, Q: 1 } bid:  249
+serial:  665 cards:  QK9JQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 13, 9, 1, 12 ] card_count:  { '9': 1, Q: 2, K: 1 } bid:  27
+serial:  666 cards:  QKQ8Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 12, 13, 12, 8, 12 ] card_count:  { '8': 1, Q: 3, K: 1 } bid:  908
+serial:  667 cards:  K2252 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 2, 2, 5, 2 ] card_count:  { '2': 3, '5': 1, K: 1 } bid:  216
+serial:  668 cards:  K3TJ3 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 3, 10, 1, 3 ] card_count:  { '3': 2, T: 1, K: 1 } bid:  864
+serial:  669 cards:  K3KK5 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 3, 13, 13, 5 ] card_count:  { '3': 1, '5': 1, K: 3 } bid:  711
+serial:  670 cards:  K4446 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 4, 4, 4, 6 ] card_count:  { '4': 3, '6': 1, K: 1 } bid:  85
+serial:  671 cards:  K5KK7 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 5, 13, 13, 7 ] card_count:  { '5': 1, '7': 1, K: 3 } bid:  975
+serial:  672 cards:  K7J57 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 7, 1, 5, 7 ] card_count:  { '5': 1, '7': 2, K: 1 } bid:  677
+serial:  673 cards:  K883J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 8, 8, 3, 1 ] card_count:  { '3': 1, '8': 2, K: 1 } bid:  391
+serial:  674 cards:  K8T88 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 8, 10, 8, 8 ] card_count:  { '8': 3, T: 1, K: 1 } bid:  963
+serial:  675 cards:  KTJK3 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 10, 1, 13, 3 ] card_count:  { '3': 1, K: 2, T: 1 } bid:  743
+serial:  676 cards:  KT999 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 10, 9, 9, 9 ] card_count:  { '9': 3, T: 1, K: 1 } bid:  274
+serial:  677 cards:  KQQ3Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 12, 12, 3, 12 ] card_count:  { '3': 1, Q: 3, K: 1 } bid:  385
+serial:  678 cards:  KK3QJ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 13, 3, 12, 1 ] card_count:  { '3': 1, Q: 1, K: 2 } bid:  471
+serial:  679 cards:  KK4KT 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 13, 4, 13, 10 ] card_count:  { '4': 1, T: 1, K: 3 } bid:  501
+serial:  680 cards:  KK59K 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 13, 5, 9, 13 ] card_count:  { '5': 1, '9': 1, K: 3 } bid:  874
+serial:  681 cards:  KK83K 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 13, 8, 3, 13 ] card_count:  { '3': 1, '8': 1, K: 3 } bid:  260
+serial:  682 cards:  KK95J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 13, 9, 5, 1 ] card_count:  { '5': 1, '9': 1, K: 2 } bid:  566
+serial:  683 cards:  KKK76 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 13, 13, 7, 6 ] card_count:  { '6': 1, '7': 1, K: 3 } bid:  395
+serial:  684 cards:  KKKTQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 13, 13, 10, 12 ] card_count:  { Q: 1, T: 1, K: 3 } bid:  957
+serial:  685 cards:  KAKK8 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 14, 13, 13, 8 ] card_count:  { '8': 1, K: 3, A: 1 } bid:  744
+serial:  686 cards:  KAKK9 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 13, 14, 13, 13, 9 ] card_count:  { '9': 1, K: 3, A: 1 } bid:  262
+serial:  687 cards:  A2A5A 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 2, 14, 5, 14 ] card_count:  { '2': 1, '5': 1, A: 3 } bid:  879
+serial:  688 cards:  A336J 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 3, 3, 6, 1 ] card_count:  { '3': 2, '6': 1, A: 1 } bid:  779
+serial:  689 cards:  A3QJ3 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 3, 12, 1, 3 ] card_count:  { '3': 2, Q: 1, A: 1 } bid:  738
+serial:  690 cards:  A5955 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 5, 9, 5, 5 ] card_count:  { '5': 3, '9': 1, A: 1 } bid:  293
+serial:  691 cards:  A5QAA 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 5, 12, 14, 14 ] card_count:  { '5': 1, A: 3, Q: 1 } bid:  235
+serial:  692 cards:  A666Q 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 6, 6, 6, 12 ] card_count:  { '6': 3, Q: 1, A: 1 } bid:  842
+serial:  693 cards:  A9799 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 9, 7, 9, 9 ] card_count:  { '7': 1, '9': 3, A: 1 } bid:  95
+serial:  694 cards:  ATJ4T 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 10, 1, 4, 10 ] card_count:  { '4': 1, T: 2, A: 1 } bid:  107
+serial:  695 cards:  ATTT6 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 10, 10, 10, 6 ] card_count:  { '6': 1, T: 3, A: 1 } bid:  247
+serial:  696 cards:  ATKKK 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 10, 13, 13, 13 ] card_count:  { K: 3, T: 1, A: 1 } bid:  104
+serial:  697 cards:  AKA5A 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 13, 14, 5, 14 ] card_count:  { '5': 1, A: 3, K: 1 } bid:  14
+serial:  698 cards:  AA4JQ 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 14, 4, 1, 12 ] card_count:  { '4': 1, Q: 1, A: 2 } bid:  911
+serial:  699 cards:  AA5A7 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 14, 5, 14, 7 ] card_count:  { '5': 1, '7': 1, A: 3 } bid:  338
+serial:  700 cards:  AA65A 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 14, 6, 5, 14 ] card_count:  { '5': 1, '6': 1, A: 3 } bid:  642
+serial:  701 cards:  AA6A3 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 14, 6, 14, 3 ] card_count:  { '3': 1, '6': 1, A: 3 } bid:  387
+serial:  702 cards:  AAA59 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 14, 14, 5, 9 ] card_count:  { '5': 1, '9': 1, A: 3 } bid:  652
+serial:  703 cards:  AAAQ8 	type:  three of kind 	hand_value:  3000 rank_card_on_index:  [ 14, 14, 14, 12, 8 ] card_count:  { '8': 1, Q: 1, A: 3 } bid:  357
+serial:  704 cards:  J22KK 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 1, 2, 2, 13, 13 ] card_count:  { '2': 2, K: 2 } bid:  519
+serial:  705 cards:  J3TT3 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 1, 3, 10, 10, 3 ] card_count:  { '3': 2, T: 2 } bid:  540
+serial:  706 cards:  J88KK 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 1, 8, 8, 13, 13 ] card_count:  { '8': 2, K: 2 } bid:  721
+serial:  707 cards:  J8TT8 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 1, 8, 10, 10, 8 ] card_count:  { '8': 2, T: 2 } bid:  105
+serial:  708 cards:  J9393 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 1, 9, 3, 9, 3 ] card_count:  { '3': 2, '9': 2 } bid:  971
+serial:  709 cards:  J9779 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 1, 9, 7, 7, 9 ] card_count:  { '7': 2, '9': 2 } bid:  321
+serial:  710 cards:  2J299 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 2, 1, 2, 9, 9 ] card_count:  { '2': 2, '9': 2 } bid:  404
+serial:  711 cards:  2JQ2Q 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 2, 1, 12, 2, 12 ] card_count:  { '2': 2, Q: 2 } bid:  460
+serial:  712 cards:  223J3 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 2, 2, 3, 1, 3 ] card_count:  { '2': 2, '3': 2 } bid:  766
+serial:  713 cards:  23332 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 2, 3, 3, 3, 2 ] card_count:  { '2': 2, '3': 3 } bid:  246
+serial:  714 cards:  25255 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 2, 5, 2, 5, 5 ] card_count:  { '2': 2, '5': 3 } bid:  871
+serial:  715 cards:  26266 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 2, 6, 2, 6, 6 ] card_count:  { '2': 2, '6': 3 } bid:  628
+serial:  716 cards:  29992 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 2, 9, 9, 9, 2 ] card_count:  { '2': 2, '9': 3 } bid:  570
+serial:  717 cards:  2T22T 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 2, 10, 2, 2, 10 ] card_count:  { '2': 3, T: 2 } bid:  484
+serial:  718 cards:  2QQQ2 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 2, 12, 12, 12, 2 ] card_count:  { '2': 2, Q: 3 } bid:  706
+serial:  719 cards:  32223 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 3, 2, 2, 2, 3 ] card_count:  { '2': 3, '3': 2 } bid:  251
+serial:  720 cards:  33434 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 3, 3, 4, 3, 4 ] card_count:  { '3': 3, '4': 2 } bid:  788
+serial:  721 cards:  33QJQ 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 3, 3, 12, 1, 12 ] card_count:  { '3': 2, Q: 2 } bid:  212
+serial:  722 cards:  353J5 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 3, 5, 3, 1, 5 ] card_count:  { '3': 2, '5': 2 } bid:  283
+serial:  723 cards:  37J73 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 3, 7, 1, 7, 3 ] card_count:  { '3': 2, '7': 2 } bid:  328
+serial:  724 cards:  37773 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 3, 7, 7, 7, 3 ] card_count:  { '3': 2, '7': 3 } bid:  290
+serial:  725 cards:  38338 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 3, 8, 3, 3, 8 ] card_count:  { '3': 3, '8': 2 } bid:  422
+serial:  726 cards:  39393 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 3, 9, 3, 9, 3 ] card_count:  { '3': 3, '9': 2 } bid:  506
+serial:  727 cards:  3KJK3 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 3, 13, 1, 13, 3 ] card_count:  { '3': 2, K: 2 } bid:  563
+serial:  728 cards:  4J4AA 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 4, 1, 4, 14, 14 ] card_count:  { '4': 2, A: 2 } bid:  772
+serial:  729 cards:  42242 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 4, 2, 2, 4, 2 ] card_count:  { '2': 3, '4': 2 } bid:  955
+serial:  730 cards:  442J2 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 4, 4, 2, 1, 2 ] card_count:  { '2': 2, '4': 2 } bid:  719
+serial:  731 cards:  4499J 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 4, 4, 9, 9, 1 ] card_count:  { '4': 2, '9': 2 } bid:  124
+serial:  732 cards:  44A4A 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 4, 4, 14, 4, 14 ] card_count:  { '4': 3, A: 2 } bid:  406
+serial:  733 cards:  4KK44 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 4, 13, 13, 4, 4 ] card_count:  { '4': 3, K: 2 } bid:  127
+serial:  734 cards:  52252 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 5, 2, 2, 5, 2 ] card_count:  { '2': 3, '5': 2 } bid:  32
+serial:  735 cards:  53535 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 5, 3, 5, 3, 5 ] card_count:  { '3': 2, '5': 3 } bid:  603
+serial:  736 cards:  55445 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 5, 5, 4, 4, 5 ] card_count:  { '4': 2, '5': 3 } bid:  299
+serial:  737 cards:  555TT 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 5, 5, 5, 10, 10 ] card_count:  { '5': 3, T: 2 } bid:  513
+serial:  738 cards:  55KKJ 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 5, 5, 13, 13, 1 ] card_count:  { '5': 2, K: 2 } bid:  101
+serial:  739 cards:  55A5A 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 5, 5, 14, 5, 14 ] card_count:  { '5': 3, A: 2 } bid:  303
+serial:  740 cards:  57575 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 5, 7, 5, 7, 5 ] card_count:  { '5': 3, '7': 2 } bid:  231
+serial:  741 cards:  59595 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 5, 9, 5, 9, 5 ] card_count:  { '5': 3, '9': 2 } bid:  49
+serial:  742 cards:  5TTJ5 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 5, 10, 10, 1, 5 ] card_count:  { '5': 2, T: 2 } bid:  797
+serial:  743 cards:  63636 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 3, 6, 3, 6 ] card_count:  { '3': 2, '6': 3 } bid:  809
+serial:  744 cards:  64J46 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 4, 1, 4, 6 ] card_count:  { '4': 2, '6': 2 } bid:  426
+serial:  745 cards:  64464 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 4, 4, 6, 4 ] card_count:  { '4': 3, '6': 2 } bid:  801
+serial:  746 cards:  65566 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 5, 5, 6, 6 ] card_count:  { '5': 2, '6': 3 } bid:  225
+serial:  747 cards:  66J55 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 6, 1, 5, 5 ] card_count:  { '5': 2, '6': 2 } bid:  870
+serial:  748 cards:  66868 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 6, 8, 6, 8 ] card_count:  { '6': 3, '8': 2 } bid:  700
+serial:  749 cards:  66AA6 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 6, 14, 14, 6 ] card_count:  { '6': 3, A: 2 } bid:  938
+serial:  750 cards:  67667 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 7, 6, 6, 7 ] card_count:  { '6': 3, '7': 2 } bid:  807
+serial:  751 cards:  6TTJ6 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 10, 10, 1, 6 ] card_count:  { '6': 2, T: 2 } bid:  989
+serial:  752 cards:  6Q66Q 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 12, 6, 6, 12 ] card_count:  { '6': 3, Q: 2 } bid:  301
+serial:  753 cards:  6K6KJ 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 6, 13, 6, 13, 1 ] card_count:  { '6': 2, K: 2 } bid:  954
+serial:  754 cards:  7JA7A 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 7, 1, 14, 7, 14 ] card_count:  { '7': 2, A: 2 } bid:  473
+serial:  755 cards:  73337 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 7, 3, 3, 3, 7 ] card_count:  { '3': 3, '7': 2 } bid:  28
+serial:  756 cards:  77474 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 7, 7, 4, 7, 4 ] card_count:  { '4': 2, '7': 3 } bid:  60
+serial:  757 cards:  77KJK 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 7, 7, 13, 1, 13 ] card_count:  { '7': 2, K: 2 } bid:  804
+serial:  758 cards:  7K7K7 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 7, 13, 7, 13, 7 ] card_count:  { '7': 3, K: 2 } bid:  241
+serial:  759 cards:  8J8AA 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 8, 1, 8, 14, 14 ] card_count:  { '8': 2, A: 2 } bid:  277
+serial:  760 cards:  83J38 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 8, 3, 1, 3, 8 ] card_count:  { '3': 2, '8': 2 } bid:  287
+serial:  761 cards:  85558 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 8, 5, 5, 5, 8 ] card_count:  { '5': 3, '8': 2 } bid:  78
+serial:  762 cards:  85885 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 8, 5, 8, 8, 5 ] card_count:  { '5': 2, '8': 3 } bid:  599
+serial:  763 cards:  86688 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 8, 6, 6, 8, 8 ] card_count:  { '6': 2, '8': 3 } bid:  747
+serial:  764 cards:  88222 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 8, 8, 2, 2, 2 ] card_count:  { '2': 3, '8': 2 } bid:  862
+serial:  765 cards:  88228 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 8, 8, 2, 2, 8 ] card_count:  { '2': 2, '8': 3 } bid:  10
+serial:  766 cards:  88444 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 8, 8, 4, 4, 4 ] card_count:  { '4': 3, '8': 2 } bid:  778
+serial:  767 cards:  89899 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 8, 9, 8, 9, 9 ] card_count:  { '8': 2, '9': 3 } bid:  139
+serial:  768 cards:  92292 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 9, 2, 2, 9, 2 ] card_count:  { '2': 3, '9': 2 } bid:  582
+serial:  769 cards:  966J9 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 9, 6, 6, 1, 9 ] card_count:  { '6': 2, '9': 2 } bid:  637
+serial:  770 cards:  97779 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 9, 7, 7, 7, 9 ] card_count:  { '7': 3, '9': 2 } bid:  475
+serial:  771 cards:  99JAA 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 9, 9, 1, 14, 14 ] card_count:  { '9': 2, A: 2 } bid:  464
+serial:  772 cards:  99339 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 9, 9, 3, 3, 9 ] card_count:  { '3': 2, '9': 3 } bid:  791
+serial:  773 cards:  99966 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 9, 9, 9, 6, 6 ] card_count:  { '6': 2, '9': 3 } bid:  269
+serial:  774 cards:  9Q9JQ 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 9, 12, 9, 1, 12 ] card_count:  { '9': 2, Q: 2 } bid:  113
+serial:  775 cards:  9KK99 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 9, 13, 13, 9, 9 ] card_count:  { '9': 3, K: 2 } bid:  649
+serial:  776 cards:  9AAA9 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 9, 14, 14, 14, 9 ] card_count:  { '9': 2, A: 3 } bid:  656
+serial:  777 cards:  TJ9T9 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 1, 9, 10, 9 ] card_count:  { '9': 2, T: 2 } bid:  15
+serial:  778 cards:  T22JT 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 2, 2, 1, 10 ] card_count:  { '2': 2, T: 2 } bid:  607
+serial:  779 cards:  T333T 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 3, 3, 3, 10 ] card_count:  { '3': 3, T: 2 } bid:  273
+serial:  780 cards:  T4JT4 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 4, 1, 10, 4 ] card_count:  { '4': 2, T: 2 } bid:  850
+serial:  781 cards:  T44T4 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 4, 4, 10, 4 ] card_count:  { '4': 3, T: 2 } bid:  6
+serial:  782 cards:  T777T 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 7, 7, 7, 10 ] card_count:  { '7': 3, T: 2 } bid:  524
+serial:  783 cards:  T888T 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 8, 8, 8, 10 ] card_count:  { '8': 3, T: 2 } bid:  967
+serial:  784 cards:  T99TT 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 9, 9, 10, 10 ] card_count:  { '9': 2, T: 3 } bid:  394
+serial:  785 cards:  T9T99 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 9, 10, 9, 9 ] card_count:  { '9': 3, T: 2 } bid:  324
+serial:  786 cards:  TT77T 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 10, 7, 7, 10 ] card_count:  { '7': 2, T: 3 } bid:  384
+serial:  787 cards:  TTT66 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 10, 10, 6, 6 ] card_count:  { '6': 2, T: 3 } bid:  33
+serial:  788 cards:  TTKTK 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 10, 13, 10, 13 ] card_count:  { K: 2, T: 3 } bid:  108
+serial:  789 cards:  TTKKJ 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 10, 13, 13, 1 ] card_count:  { K: 2, T: 2 } bid:  90
+serial:  790 cards:  TQTQQ 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 12, 10, 12, 12 ] card_count:  { Q: 3, T: 2 } bid:  681
+serial:  791 cards:  TAATT 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 14, 14, 10, 10 ] card_count:  { T: 3, A: 2 } bid:  629
+serial:  792 cards:  TAATA 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 10, 14, 14, 10, 14 ] card_count:  { A: 3, T: 2 } bid:  916
+serial:  793 cards:  Q8J8Q 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 12, 8, 1, 8, 12 ] card_count:  { '8': 2, Q: 2 } bid:  137
+serial:  794 cards:  Q8Q8Q 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 12, 8, 12, 8, 12 ] card_count:  { '8': 2, Q: 3 } bid:  417
+serial:  795 cards:  Q99Q9 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 12, 9, 9, 12, 9 ] card_count:  { '9': 3, Q: 2 } bid:  977
+serial:  796 cards:  QTJTQ 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 12, 10, 1, 10, 12 ] card_count:  { Q: 2, T: 2 } bid:  783
+serial:  797 cards:  QTQTT 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 12, 10, 12, 10, 10 ] card_count:  { T: 3, Q: 2 } bid:  371
+serial:  798 cards:  QQ222 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 12, 12, 2, 2, 2 ] card_count:  { '2': 3, Q: 2 } bid:  838
+serial:  799 cards:  QQ99Q 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 12, 12, 9, 9, 12 ] card_count:  { '9': 2, Q: 3 } bid:  300
+serial:  800 cards:  QKKQJ 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 12, 13, 13, 12, 1 ] card_count:  { Q: 2, K: 2 } bid:  487
+serial:  801 cards:  K6KK6 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 13, 6, 13, 13, 6 ] card_count:  { '6': 2, K: 3 } bid:  655
+serial:  802 cards:  K88KK 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 13, 8, 8, 13, 13 ] card_count:  { '8': 2, K: 3 } bid:  515
+serial:  803 cards:  KK33K 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 13, 13, 3, 3, 13 ] card_count:  { '3': 2, K: 3 } bid:  543
+serial:  804 cards:  KKK55 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 13, 13, 13, 5, 5 ] card_count:  { '5': 2, K: 3 } bid:  348
+serial:  805 cards:  KKAJA 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 13, 13, 14, 1, 14 ] card_count:  { A: 2, K: 2 } bid:  933
+serial:  806 cards:  A2J2A 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 2, 1, 2, 14 ] card_count:  { '2': 2, A: 2 } bid:  595
+serial:  807 cards:  A44AA 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 4, 4, 14, 14 ] card_count:  { '4': 2, A: 3 } bid:  867
+serial:  808 cards:  A55JA 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 5, 5, 1, 14 ] card_count:  { '5': 2, A: 2 } bid:  926
+serial:  809 cards:  A55AA 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 5, 5, 14, 14 ] card_count:  { '5': 2, A: 3 } bid:  144
+serial:  810 cards:  A888A 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 8, 8, 8, 14 ] card_count:  { '8': 3, A: 2 } bid:  987
+serial:  811 cards:  A8A8A 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 8, 14, 8, 14 ] card_count:  { '8': 2, A: 3 } bid:  204
+serial:  812 cards:  A999A 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 9, 9, 9, 14 ] card_count:  { '9': 3, A: 2 } bid:  694
+serial:  813 cards:  AAJQQ 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 14, 1, 12, 12 ] card_count:  { Q: 2, A: 2 } bid:  194
+serial:  814 cards:  AAKKK 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 14, 13, 13, 13 ] card_count:  { K: 3, A: 2 } bid:  981
+serial:  815 cards:  AAA22 	type:  full house 	hand_value:  3500 rank_card_on_index:  [ 14, 14, 14, 2, 2 ] card_count:  { '2': 2, A: 3 } bid:  697
+serial:  816 cards:  JJ559 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 1, 5, 5, 9 ] card_count:  { '5': 2, '9': 1 } bid:  196
+serial:  817 cards:  JJKTK 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 1, 13, 10, 13 ] card_count:  { K: 2, T: 1 } bid:  964
+serial:  818 cards:  J222Q 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 2, 2, 2, 12 ] card_count:  { '2': 3, Q: 1 } bid:  403
+serial:  819 cards:  J22QJ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 2, 2, 12, 1 ] card_count:  { '2': 2, Q: 1 } bid:  367
+serial:  820 cards:  J2822 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 2, 8, 2, 2 ] card_count:  { '2': 3, '8': 1 } bid:  907
+serial:  821 cards:  J3337 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 3, 3, 3, 7 ] card_count:  { '3': 3, '7': 1 } bid:  751
+serial:  822 cards:  J4448 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 4, 4, 4, 8 ] card_count:  { '4': 3, '8': 1 } bid:  89
+serial:  823 cards:  J4544 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 4, 5, 4, 4 ] card_count:  { '4': 3, '5': 1 } bid:  934
+serial:  824 cards:  J4TTT 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 4, 10, 10, 10 ] card_count:  { '4': 1, T: 3 } bid:  895
+serial:  825 cards:  J6JAA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 6, 1, 14, 14 ] card_count:  { '6': 1, A: 2 } bid:  341
+serial:  826 cards:  J6466 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 6, 4, 6, 6 ] card_count:  { '4': 1, '6': 3 } bid:  568
+serial:  827 cards:  J877J 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 8, 7, 7, 1 ] card_count:  { '7': 2, '8': 1 } bid:  617
+serial:  828 cards:  J8868 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 8, 8, 6, 8 ] card_count:  { '6': 1, '8': 3 } bid:  597
+serial:  829 cards:  J8883 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 8, 8, 8, 3 ] card_count:  { '3': 1, '8': 3 } bid:  905
+serial:  830 cards:  J8Q8J 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 8, 12, 8, 1 ] card_count:  { '8': 2, Q: 1 } bid:  456
+serial:  831 cards:  J9J44 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 9, 1, 4, 4 ] card_count:  { '4': 2, '9': 1 } bid:  450
+serial:  832 cards:  J92J2 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 9, 2, 1, 2 ] card_count:  { '2': 2, '9': 1 } bid:  717
+serial:  833 cards:  J9299 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 9, 2, 9, 9 ] card_count:  { '2': 1, '9': 3 } bid:  605
+serial:  834 cards:  J9993 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 9, 9, 9, 3 ] card_count:  { '3': 1, '9': 3 } bid:  331
+serial:  835 cards:  JQJQ2 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 12, 1, 12, 2 ] card_count:  { '2': 1, Q: 2 } bid:  654
+serial:  836 cards:  JA4JA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 14, 4, 1, 14 ] card_count:  { '4': 1, A: 2 } bid:  984
+serial:  837 cards:  JAAA8 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 1, 14, 14, 14, 8 ] card_count:  { '8': 1, A: 3 } bid:  924
+serial:  838 cards:  22J92 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 2, 2, 1, 9, 2 ] card_count:  { '2': 3, '9': 1 } bid:  630
+serial:  839 cards:  22262 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 2, 2, 2, 6, 2 ] card_count:  { '2': 4, '6': 1 } bid:  782
+serial:  840 cards:  22522 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 2, 2, 5, 2, 2 ] card_count:  { '2': 4, '5': 1 } bid:  644
+serial:  841 cards:  22922 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 2, 2, 9, 2, 2 ] card_count:  { '2': 4, '9': 1 } bid:  405
+serial:  842 cards:  23222 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 2, 3, 2, 2, 2 ] card_count:  { '2': 4, '3': 1 } bid:  368
+serial:  843 cards:  25J55 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 2, 5, 1, 5, 5 ] card_count:  { '2': 1, '5': 3 } bid:  362
+serial:  844 cards:  2TTTT 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 2, 10, 10, 10, 10 ] card_count:  { '2': 1, T: 4 } bid:  798
+serial:  845 cards:  2QQJQ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 2, 12, 12, 1, 12 ] card_count:  { '2': 1, Q: 3 } bid:  335
+serial:  846 cards:  2AAAJ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 2, 14, 14, 14, 1 ] card_count:  { '2': 1, A: 3 } bid:  953
+serial:  847 cards:  3J339 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 1, 3, 3, 9 ] card_count:  { '3': 3, '9': 1 } bid:  498
+serial:  848 cards:  32J22 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 2, 1, 2, 2 ] card_count:  { '2': 3, '3': 1 } bid:  691
+serial:  849 cards:  32333 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 2, 3, 3, 3 ] card_count:  { '2': 1, '3': 4 } bid:  468
+serial:  850 cards:  33J34 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 3, 1, 3, 4 ] card_count:  { '3': 3, '4': 1 } bid:  904
+serial:  851 cards:  33JK3 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 3, 1, 13, 3 ] card_count:  { '3': 3, K: 1 } bid:  425
+serial:  852 cards:  33343 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 3, 3, 4, 3 ] card_count:  { '3': 4, '4': 1 } bid:  399
+serial:  853 cards:  33KJJ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 3, 13, 1, 1 ] card_count:  { '3': 2, K: 1 } bid:  959
+serial:  854 cards:  33A33 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 3, 14, 3, 3 ] card_count:  { '3': 4, A: 1 } bid:  388
+serial:  855 cards:  38333 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 8, 3, 3, 3 ] card_count:  { '3': 4, '8': 1 } bid:  58
+serial:  856 cards:  39333 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 9, 3, 3, 3 ] card_count:  { '3': 4, '9': 1 } bid:  701
+serial:  857 cards:  39999 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 9, 9, 9, 9 ] card_count:  { '3': 1, '9': 4 } bid:  521
+serial:  858 cards:  3Q333 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 12, 3, 3, 3 ] card_count:  { '3': 4, Q: 1 } bid:  106
+serial:  859 cards:  3K333 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 3, 13, 3, 3, 3 ] card_count:  { '3': 4, K: 1 } bid:  337
+serial:  860 cards:  4JJ43 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 1, 1, 4, 3 ] card_count:  { '3': 1, '4': 2 } bid:  209
+serial:  861 cards:  4J4JQ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 1, 4, 1, 12 ] card_count:  { '4': 2, Q: 1 } bid:  928
+serial:  862 cards:  44244 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 4, 2, 4, 4 ] card_count:  { '2': 1, '4': 4 } bid:  817
+serial:  863 cards:  44443 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 4, 4, 4, 3 ] card_count:  { '3': 1, '4': 4 } bid:  53
+serial:  864 cards:  44446 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 4, 4, 4, 6 ] card_count:  { '4': 4, '6': 1 } bid:  852
+serial:  865 cards:  44454 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 4, 4, 5, 4 ] card_count:  { '4': 4, '5': 1 } bid:  233
+serial:  866 cards:  444Q4 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 4, 4, 12, 4 ] card_count:  { '4': 4, Q: 1 } bid:  311
+serial:  867 cards:  4494J 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 4, 9, 4, 1 ] card_count:  { '4': 3, '9': 1 } bid:  496
+serial:  868 cards:  44T44 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 4, 10, 4, 4 ] card_count:  { '4': 4, T: 1 } bid:  821
+serial:  869 cards:  46J4J 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 6, 1, 4, 1 ] card_count:  { '4': 2, '6': 1 } bid:  945
+serial:  870 cards:  48J88 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 8, 1, 8, 8 ] card_count:  { '4': 1, '8': 3 } bid:  834
+serial:  871 cards:  4A4J4 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 14, 4, 1, 4 ] card_count:  { '4': 3, A: 1 } bid:  97
+serial:  872 cards:  4AAAJ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 4, 14, 14, 14, 1 ] card_count:  { '4': 1, A: 3 } bid:  183
+serial:  873 cards:  5J25J 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 1, 2, 5, 1 ] card_count:  { '2': 1, '5': 2 } bid:  379
+serial:  874 cards:  5J535 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 1, 5, 3, 5 ] card_count:  { '3': 1, '5': 3 } bid:  201
+serial:  875 cards:  53333 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 3, 3, 3, 3 ] card_count:  { '3': 4, '5': 1 } bid:  883
+serial:  876 cards:  55JA5 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 5, 1, 14, 5 ] card_count:  { '5': 3, A: 1 } bid:  115
+serial:  877 cards:  5556J 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 5, 5, 6, 1 ] card_count:  { '5': 3, '6': 1 } bid:  40
+serial:  878 cards:  55585 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 5, 5, 8, 5 ] card_count:  { '5': 4, '8': 1 } bid:  111
+serial:  879 cards:  555Q5 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 5, 5, 12, 5 ] card_count:  { '5': 4, Q: 1 } bid:  353
+serial:  880 cards:  55655 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 5, 6, 5, 5 ] card_count:  { '5': 4, '6': 1 } bid:  641
+serial:  881 cards:  55KJ5 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 5, 13, 1, 5 ] card_count:  { '5': 3, K: 1 } bid:  285
+serial:  882 cards:  55K55 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 5, 13, 5, 5 ] card_count:  { '5': 4, K: 1 } bid:  217
+serial:  883 cards:  5T555 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 5, 10, 5, 5, 5 ] card_count:  { '5': 4, T: 1 } bid:  650
+serial:  884 cards:  6JJ64 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 1, 1, 6, 4 ] card_count:  { '4': 1, '6': 2 } bid:  888
+serial:  885 cards:  6J626 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 1, 6, 2, 6 ] card_count:  { '2': 1, '6': 3 } bid:  289
+serial:  886 cards:  62666 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 2, 6, 6, 6 ] card_count:  { '2': 1, '6': 4 } bid:  657
+serial:  887 cards:  63333 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 3, 3, 3, 3 ] card_count:  { '3': 4, '6': 1 } bid:  172
+serial:  888 cards:  63666 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 3, 6, 6, 6 ] card_count:  { '3': 1, '6': 4 } bid:  5
+serial:  889 cards:  666JA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 6, 6, 1, 14 ] card_count:  { '6': 3, A: 1 } bid:  414
+serial:  890 cards:  66664 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 6, 6, 6, 4 ] card_count:  { '4': 1, '6': 4 } bid:  9
+serial:  891 cards:  66T66 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 6, 10, 6, 6 ] card_count:  { '6': 4, T: 1 } bid:  802
+serial:  892 cards:  68666 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 8, 6, 6, 6 ] card_count:  { '6': 4, '8': 1 } bid:  467
+serial:  893 cards:  69666 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 9, 6, 6, 6 ] card_count:  { '6': 4, '9': 1 } bid:  705
+serial:  894 cards:  6K666 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 6, 13, 6, 6, 6 ] card_count:  { '6': 4, K: 1 } bid:  474
+serial:  895 cards:  7J727 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 1, 7, 2, 7 ] card_count:  { '2': 1, '7': 3 } bid:  968
+serial:  896 cards:  72222 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 2, 2, 2, 2 ] card_count:  { '2': 4, '7': 1 } bid:  680
+serial:  897 cards:  737J7 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 3, 7, 1, 7 ] card_count:  { '3': 1, '7': 3 } bid:  808
+serial:  898 cards:  73777 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 3, 7, 7, 7 ] card_count:  { '3': 1, '7': 4 } bid:  214
+serial:  899 cards:  74444 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 4, 4, 4, 4 ] card_count:  { '4': 4, '7': 1 } bid:  993
+serial:  900 cards:  75777 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 5, 7, 7, 7 ] card_count:  { '5': 1, '7': 4 } bid:  99
+serial:  901 cards:  76666 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 6, 6, 6, 6 ] card_count:  { '6': 4, '7': 1 } bid:  176
+serial:  902 cards:  76777 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 6, 7, 7, 7 ] card_count:  { '6': 1, '7': 4 } bid:  470
+serial:  903 cards:  777J8 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 7, 7, 1, 8 ] card_count:  { '7': 3, '8': 1 } bid:  695
+serial:  904 cards:  77727 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 7, 7, 2, 7 ] card_count:  { '2': 1, '7': 4 } bid:  88
+serial:  905 cards:  7774J 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 7, 7, 4, 1 ] card_count:  { '4': 1, '7': 3 } bid:  239
+serial:  906 cards:  7777K 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 7, 7, 7, 13 ] card_count:  { '7': 4, K: 1 } bid:  773
+serial:  907 cards:  78777 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 8, 7, 7, 7 ] card_count:  { '7': 4, '8': 1 } bid:  857
+serial:  908 cards:  78888 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 8, 8, 8, 8 ] card_count:  { '7': 1, '8': 4 } bid:  626
+serial:  909 cards:  7TTTT 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 10, 10, 10, 10 ] card_count:  { '7': 1, T: 4 } bid:  994
+serial:  910 cards:  7A777 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 7, 14, 7, 7, 7 ] card_count:  { '7': 4, A: 1 } bid:  829
+serial:  911 cards:  8JJ87 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 1, 1, 8, 7 ] card_count:  { '7': 1, '8': 2 } bid:  730
+serial:  912 cards:  8J887 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 1, 8, 8, 7 ] card_count:  { '7': 1, '8': 3 } bid:  774
+serial:  913 cards:  8J898 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 1, 8, 9, 8 ] card_count:  { '8': 3, '9': 1 } bid:  604
+serial:  914 cards:  88J58 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 8, 1, 5, 8 ] card_count:  { '5': 1, '8': 3 } bid:  843
+serial:  915 cards:  88J8T 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 8, 1, 8, 10 ] card_count:  { '8': 3, T: 1 } bid:  19
+serial:  916 cards:  88588 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 8, 5, 8, 8 ] card_count:  { '5': 1, '8': 4 } bid:  7
+serial:  917 cards:  888JA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 8, 8, 1, 14 ] card_count:  { '8': 3, A: 1 } bid:  244
+serial:  918 cards:  88868 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 8, 8, 6, 8 ] card_count:  { '6': 1, '8': 4 } bid:  861
+serial:  919 cards:  88889 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 8, 8, 8, 9 ] card_count:  { '8': 4, '9': 1 } bid:  435
+serial:  920 cards:  88Q8J 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 8, 12, 8, 1 ] card_count:  { '8': 3, Q: 1 } bid:  619
+serial:  921 cards:  8KKKK 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 8, 13, 13, 13, 13 ] card_count:  { '8': 1, K: 4 } bid:  740
+serial:  922 cards:  95999 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 9, 5, 9, 9, 9 ] card_count:  { '5': 1, '9': 4 } bid:  242
+serial:  923 cards:  99899 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 9, 9, 8, 9, 9 ] card_count:  { '8': 1, '9': 4 } bid:  444
+serial:  924 cards:  99929 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 9, 9, 9, 2, 9 ] card_count:  { '2': 1, '9': 4 } bid:  814
+serial:  925 cards:  99979 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 9, 9, 9, 7, 9 ] card_count:  { '7': 1, '9': 4 } bid:  360
+serial:  926 cards:  99994 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 9, 9, 9, 9, 4 ] card_count:  { '4': 1, '9': 4 } bid:  161
+serial:  927 cards:  99996 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 9, 9, 9, 9, 6 ] card_count:  { '6': 1, '9': 4 } bid:  577
+serial:  928 cards:  99T99 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 9, 9, 10, 9, 9 ] card_count:  { '9': 4, T: 1 } bid:  913
+serial:  929 cards:  99K99 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 9, 9, 13, 9, 9 ] card_count:  { '9': 4, K: 1 } bid:  148
+serial:  930 cards:  T2222 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 10, 2, 2, 2, 2 ] card_count:  { '2': 4, T: 1 } bid:  745
+serial:  931 cards:  TTJQT 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 10, 10, 1, 12, 10 ] card_count:  { T: 3, Q: 1 } bid:  185
+serial:  932 cards:  TT6TT 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 10, 10, 6, 10, 10 ] card_count:  { '6': 1, T: 4 } bid:  856
+serial:  933 cards:  TTT3T 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 10, 10, 10, 3, 10 ] card_count:  { '3': 1, T: 4 } bid:  885
+serial:  934 cards:  TTT4T 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 10, 10, 10, 4, 10 ] card_count:  { '4': 1, T: 4 } bid:  525
+serial:  935 cards:  TTT5T 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 10, 10, 10, 5, 10 ] card_count:  { '5': 1, T: 4 } bid:  923
+serial:  936 cards:  TTTT9 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 10, 10, 10, 10, 9 ] card_count:  { '9': 1, T: 4 } bid:  314
+serial:  937 cards:  TTKJT 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 10, 10, 13, 1, 10 ] card_count:  { T: 3, K: 1 } bid:  481
+serial:  938 cards:  TKKKK 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 10, 13, 13, 13, 13 ] card_count:  { K: 4, T: 1 } bid:  23
+serial:  939 cards:  QJ666 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 1, 6, 6, 6 ] card_count:  { '6': 3, Q: 1 } bid:  756
+serial:  940 cards:  QJQ9Q 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 1, 12, 9, 12 ] card_count:  { '9': 1, Q: 3 } bid:  401
+serial:  941 cards:  QJAAA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 1, 14, 14, 14 ] card_count:  { A: 3, Q: 1 } bid:  98
+serial:  942 cards:  Q7J77 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 7, 1, 7, 7 ] card_count:  { '7': 3, Q: 1 } bid:  114
+serial:  943 cards:  Q7JQQ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 7, 1, 12, 12 ] card_count:  { '7': 1, Q: 3 } bid:  438
+serial:  944 cards:  Q8QQQ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 8, 12, 12, 12 ] card_count:  { '8': 1, Q: 4 } bid:  302
+serial:  945 cards:  QTTTT 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 10, 10, 10, 10 ] card_count:  { T: 4, Q: 1 } bid:  333
+serial:  946 cards:  QQ6QQ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 12, 6, 12, 12 ] card_count:  { '6': 1, Q: 4 } bid:  153
+serial:  947 cards:  QQQTQ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 12, 12, 10, 12 ] card_count:  { Q: 4, T: 1 } bid:  633
+serial:  948 cards:  QQQQ3 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 12, 12, 12, 3 ] card_count:  { '3': 1, Q: 4 } bid:  207
+serial:  949 cards:  QQQQ5 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 12, 12, 12, 5 ] card_count:  { '5': 1, Q: 4 } bid:  623
+serial:  950 cards:  QQQQA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 12, 12, 12, 14 ] card_count:  { A: 1, Q: 4 } bid:  522
+serial:  951 cards:  QQKJJ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 12, 12, 13, 1, 1 ] card_count:  { K: 1, Q: 2 } bid:  621
+serial:  952 cards:  KJ3KK 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 1, 3, 13, 13 ] card_count:  { '3': 1, K: 3 } bid:  845
+serial:  953 cards:  KJ777 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 1, 7, 7, 7 ] card_count:  { '7': 3, K: 1 } bid:  428
+serial:  954 cards:  KJQQQ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 1, 12, 12, 12 ] card_count:  { Q: 3, K: 1 } bid:  424
+serial:  955 cards:  KJK9K 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 1, 13, 9, 13 ] card_count:  { '9': 1, K: 3 } bid:  556
+serial:  956 cards:  KK6KK 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 13, 6, 13, 13 ] card_count:  { '6': 1, K: 4 } bid:  409
+serial:  957 cards:  KKKJ4 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 13, 13, 1, 4 ] card_count:  { '4': 1, K: 3 } bid:  960
+serial:  958 cards:  KKKJ7 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 13, 13, 1, 7 ] card_count:  { '7': 1, K: 3 } bid:  718
+serial:  959 cards:  KKK5K 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 13, 13, 5, 13 ] card_count:  { '5': 1, K: 4 } bid:  75
+serial:  960 cards:  KKK7K 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 13, 13, 7, 13 ] card_count:  { '7': 1, K: 4 } bid:  375
+serial:  961 cards:  KKK9K 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 13, 13, 9, 13 ] card_count:  { '9': 1, K: 4 } bid:  640
+serial:  962 cards:  KKKK4 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 13, 13, 13, 4 ] card_count:  { '4': 1, K: 4 } bid:  673
+serial:  963 cards:  KAAAA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 13, 14, 14, 14, 14 ] card_count:  { A: 4, K: 1 } bid:  226
+serial:  964 cards:  AJTTT 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 1, 10, 10, 10 ] card_count:  { T: 3, A: 1 } bid:  541
+serial:  965 cards:  A3AJA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 3, 14, 1, 14 ] card_count:  { '3': 1, A: 3 } bid:  461
+serial:  966 cards:  A4444 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 4, 4, 4, 4 ] card_count:  { '4': 4, A: 1 } bid:  833
+serial:  967 cards:  A4AAA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 4, 14, 14, 14 ] card_count:  { '4': 1, A: 4 } bid:  669
+serial:  968 cards:  A5555 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 5, 5, 5, 5 ] card_count:  { '5': 4, A: 1 } bid:  972
+serial:  969 cards:  A8AAA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 8, 14, 14, 14 ] card_count:  { '8': 1, A: 4 } bid:  339
+serial:  970 cards:  ATTTT 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 10, 10, 10, 10 ] card_count:  { T: 4, A: 1 } bid:  575
+serial:  971 cards:  AKJAA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 13, 1, 14, 14 ] card_count:  { A: 3, K: 1 } bid:  948
+serial:  972 cards:  AA2AA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 14, 2, 14, 14 ] card_count:  { '2': 1, A: 4 } bid:  351
+serial:  973 cards:  AA5JA 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 14, 5, 1, 14 ] card_count:  { '5': 1, A: 3 } bid:  544
+serial:  974 cards:  AA6AJ 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 14, 6, 14, 1 ] card_count:  { '6': 1, A: 3 } bid:  96
+serial:  975 cards:  AAA7A 	type:  four of kind 	hand_value:  4000 rank_card_on_index:  [ 14, 14, 14, 7, 14 ] card_count:  { '7': 1, A: 4 } bid:  499
+serial:  976 cards:  JJJJJ 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 1, 1, 1, 1, 1 ] card_count:  {} bid:  876
+serial:  977 cards:  JJ666 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 1, 1, 6, 6, 6 ] card_count:  { '6': 3 } bid:  116
+serial:  978 cards:  JJ777 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 1, 1, 7, 7, 7 ] card_count:  { '7': 3 } bid:  122
+serial:  979 cards:  J22J2 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 1, 2, 2, 1, 2 ] card_count:  { '2': 3 } bid:  670
+serial:  980 cards:  J5555 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 1, 5, 5, 5, 5 ] card_count:  { '5': 4 } bid:  658
+serial:  981 cards:  JTJTT 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 1, 10, 1, 10, 10 ] card_count:  { T: 3 } bid:  661
+serial:  982 cards:  JKJKK 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 1, 13, 1, 13, 13 ] card_count:  { K: 3 } bid:  727
+serial:  983 cards:  JKKKK 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 1, 13, 13, 13, 13 ] card_count:  { K: 4 } bid:  86
+serial:  984 cards:  JAJAA 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 1, 14, 1, 14, 14 ] card_count:  { A: 3 } bid:  68
+serial:  985 cards:  22J22 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 2, 2, 1, 2, 2 ] card_count:  { '2': 4 } bid:  553
+serial:  986 cards:  333JJ 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 3, 3, 3, 1, 1 ] card_count:  { '3': 3 } bid:  463
+serial:  987 cards:  3333J 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 3, 3, 3, 3, 1 ] card_count:  { '3': 4 } bid:  620
+serial:  988 cards:  4JJ44 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 4, 1, 1, 4, 4 ] card_count:  { '4': 3 } bid:  961
+serial:  989 cards:  44J44 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 4, 4, 1, 4, 4 ] card_count:  { '4': 4 } bid:  542
+serial:  990 cards:  5J55J 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 5, 1, 5, 5, 1 ] card_count:  { '5': 3 } bid:  982
+serial:  991 cards:  666J6 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 6, 6, 6, 1, 6 ] card_count:  { '6': 4 } bid:  900
+serial:  992 cards:  777J7 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 7, 7, 7, 1, 7 ] card_count:  { '7': 4 } bid:  839
+serial:  993 cards:  8J88J 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 8, 1, 8, 8, 1 ] card_count:  { '8': 3 } bid:  722
+serial:  994 cards:  8J888 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 8, 1, 8, 8, 8 ] card_count:  { '8': 4 } bid:  407
+serial:  995 cards:  99JJ9 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 9, 9, 1, 1, 9 ] card_count:  { '9': 3 } bid:  523
+serial:  996 cards:  99J99 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 9, 9, 1, 9, 9 ] card_count:  { '9': 4 } bid:  315
+serial:  997 cards:  TJTTT 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 10, 1, 10, 10, 10 ] card_count:  { T: 4 } bid:  192
+serial:  998 cards:  QJJQQ 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 12, 1, 1, 12, 12 ] card_count:  { Q: 3 } bid:  51
+serial:  999 cards:  QQJQQ 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 12, 12, 1, 12, 12 ] card_count:  { Q: 4 } bid:  991
+serial:  1000 cards:  AAJAA 	type:  five of kind 	hand_value:  5000 rank_card_on_index:  [ 14, 14, 1, 14, 14 ] card_count:  { A: 4 } bid:  860
+final hands
+253169196
