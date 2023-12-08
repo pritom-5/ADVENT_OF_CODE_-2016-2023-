@@ -1,8 +1,9 @@
 package main
 
-import two "github.com/pritom-5/aoc/02"
-
+import (
+	three "github.com/pritom-5/aoc/03"
+)
 
 func main() {
-	two.GetResult_02_01()
+	three.Main_03()
 }

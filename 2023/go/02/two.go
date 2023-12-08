@@ -16,15 +16,13 @@ import (
 func takeFileInput(file_no int) string {
 	if file_no == 1 {
 		return "example.txt"
-	}	
+	}
 	return "data.txt"
 }
 
-
 func takeInput(file_name string) string {
 
-
-	file_path , _:= filepath.Abs("./example.txt")
+	file_path, _ := filepath.Abs("./example.txt")
 
 	fmt.Println("path", file_path)
 
@@ -143,4 +141,3 @@ func GetResult_02_01() int {
 
 	return nos_valid_games
 }
-
