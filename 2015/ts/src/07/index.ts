@@ -118,10 +118,12 @@ function walk(item: MyVariable) {
   switch (item.instructions[0].operation) {
     case "LSHIFT":
       const { from, value } = ParseOperator.parseLshiftRshift(instruction);
-      if (VARIABLES[from]) {
+      if (VARIABLES[from] && VARIABLES[from].value !== undefined) {
+        const v = VARIABLES[from].value!;
         // todo: do it from here
+        Operate.lshift(v, value);
+      } else {
       }
-      Operate.lshift();
       break;
     case "RSHIFT":
       break;
