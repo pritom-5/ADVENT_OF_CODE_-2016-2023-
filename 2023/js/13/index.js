@@ -1,25 +1,3 @@
-// too low part 1: 19822
-const input_1 = `#.##..##.
-..#.##.#.
-##......#
-##......#
-..#.##.#.
-..##..##.
-#.#.##.#.`;
-
-const input_2 = `#...##..#
-#....#..#
-..##..###
-#####.##.
-#####.##.
-..##..###
-#....#..#`;
-
-// const flipped_input = rotateInput(input_1);
-// const { has_mirror, line } = findHorizontalRefLine(flipped_input);
-
-// console.log(has_mirror, line);
-
 class Pattern {
   rotated_pattern_grid = [];
   horizontal_value = 0;
@@ -52,6 +30,18 @@ class Pattern {
     return result.join(" ");
   }
 
+  isExactlyOneChDiff(ch1, ch2) {
+    let total_match = 0;
+    for (let i = 0; i < ch1.length; i++) {
+      const t_ch1 = ch1[i];
+      const t_ch2 = ch2[i];
+      if (t_ch1 !== t_ch2) {
+        total_match++;
+      }
+    }
+    return total_match === 1;
+  }
+
   findHorizontalRefLine(pattern_grid) {
     let line = 1;
 
@@ -62,13 +52,17 @@ class Pattern {
       const ch_2 = pattern_grid.slice(line, line + chunk_len);
       const ch_2_string = this.flipeedSliceString(ch_2);
 
-      // console.log(ch_1);
-      // console.log(ch_2_string);
-      // console.log("\n");
-
-      if (ch_1 === ch_2_string) {
-        break;
+      // @update part 2
+      if (ch_1.length === ch_2_string.length) {
+        if (this.isExactlyOneChDiff(ch_1, ch_2_string)) {
+          break;
+        }
       }
+
+      // @update
+      // if (ch_1 === ch_2_string) {
+      //   break;
+      // }
 
       line++;
     }
@@ -98,9 +92,9 @@ class Pattern {
 const fs = require("fs");
 function main() {
   const inputs = fs
-    // .readFileSync("./ex.txt", "ascii")
-    .readFileSync("./data.txt", "ascii")
-    // .readFileSync("./ex_1.txt", "ascii")
+    // .readFileSync("../../data/13/ex.txt", "ascii")
+    // .readFileSync("../../data/13/ex_1.txt", "ascii")
+    .readFileSync("../../data/13/data.txt", "ascii")
     .trim()
     .split("\n\n");
 
