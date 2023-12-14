@@ -4,8 +4,8 @@
  */
 import fs from "fs";
 const INPUT_GRID = fs
-	// .readFileSync("./ex.txt", "ascii")
-	.readFileSync("./data.txt", "ascii")
+	// .readFileSync("../../data/14/data.txt", "ascii")
+	.readFileSync("../../data/14/ex.txt", "ascii")
 	.trim()
 	.split("\n")
 	.map((item) => item.split(""));
