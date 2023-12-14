@@ -16,7 +16,7 @@ class ShopItem {
   }
 }
 
-class Player {
+export class Player {
   total_damage = 0;
   total_armor = 0;
   total_cost = 0;
@@ -126,7 +126,7 @@ function getCombo(weapons, armors, rings) {
           const t_armor = armors[i] ? armors[i] : [];
           const t_rings = r;
 
-          PLAYERS.push(new Player(t_weapon, t_armor, t_rings));
+          PLAYERS.push(new Player(t_weapon, [t_armor], t_rings));
 
           //   COMBOS.push({
           //     w: [item],
@@ -138,7 +138,7 @@ function getCombo(weapons, armors, rings) {
     }
   }
 
-  console.log(PLAYERS);
+  // console.log(PLAYERS);
 }
 
 getCombo(WEAPONS, ARMOR, RINGS);
