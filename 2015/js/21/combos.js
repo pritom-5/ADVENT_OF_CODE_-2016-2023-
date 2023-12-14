@@ -29,7 +29,7 @@ export class Player {
    */
   constructor(weapon, armor, rings) {
     this.weapon = weapon;
-    this.armor = armor.length ? [armor[0]] : [];
+    this.armor = [...armor];
     this.rings = [...rings];
 
     this.findDamageArmorCost();
@@ -44,7 +44,7 @@ export class Player {
   findDamage() {
     this.total_damage += this.weapon.damage;
 
-    if (this.rings.length) {
+    if (this.rings.length !== 0) {
       for (let ring of this.rings) {
         this.total_damage += ring.damage;
       }
@@ -58,7 +58,7 @@ export class Player {
       this.total_armor += this.armor[0].armor;
     }
 
-    if (this.rings.length) {
+    if (this.rings.length !== 0) {
       for (let ring of this.rings) {
         this.total_armor += ring.armor;
       }
@@ -67,11 +67,11 @@ export class Player {
   findCost() {
     this.total_cost += this.weapon.cost;
 
-    if (this.armor.length) {
+    if (this.armor.length !== 0) {
       this.total_cost += this.armor[0].cost;
     }
 
-    if (this.rings.length) {
+    if (this.rings.length !== 0) {
       for (let ring of this.rings) {
         this.total_cost += ring.cost;
       }
@@ -102,11 +102,8 @@ RINGS.push(new ShopItem("Defense +1", 20, 0, 1, "rings"));
 RINGS.push(new ShopItem("Defense +2", 40, 0, 2, "rings"));
 RINGS.push(new ShopItem("Defense +3", 80, 0, 3, "rings"));
 
-// console.log(WEAPONS);
-// console.log(RINGS);
-// console.log(ARMOR);
 //==========================================
-// const COMBOS = [];
+
 const PLAYERS = [];
 
 function getCombo(weapons, armors, rings) {
@@ -123,16 +120,10 @@ function getCombo(weapons, armors, rings) {
           }
 
           const t_weapon = item;
-          const t_armor = armors[i] ? armors[i] : [];
+          const t_armor = armors[i] ? [armors[i]] : [];
           const t_rings = r;
 
-          PLAYERS.push(new Player(t_weapon, [t_armor], t_rings));
-
-          //   COMBOS.push({
-          //     w: [item],
-          //     a: armors[i] ? [armors[i]] : [],
-          //     r,
-          //   });
+          PLAYERS.push(new Player(t_weapon, t_armor, t_rings));
         }
       }
     }
@@ -144,7 +135,3 @@ function getCombo(weapons, armors, rings) {
 getCombo(WEAPONS, ARMOR, RINGS);
 
 export default PLAYERS;
-
-// const weapons = [1, 2, 3, 4, 5];
-// const armors = ["a", "b", "c", "d", "e"];
-// const rings = ["!", "@", "#", "$", "%", "&"];
