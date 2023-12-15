@@ -13,7 +13,7 @@ class Spell {
     mana,
     damage = 0,
     heal_hit_points = 0,
-    effect_length = 0,
+    effect_length = 1,
     rechange_mana = 0,
     armor_increase = 0,
     effective_each_turn = false
@@ -41,6 +41,9 @@ console.log(SPEELLS);
 
 export default SPEELLS;
 
+// TODO:
+// - put every spell in the current list
+// - after every turn go to calculate function and return damage
 //////////////////////////////////
 
 class Player {
