@@ -1,0 +1,48 @@
+[
+  {
+    name: "Magic Missile",
+    mana: 53,
+    damage: 4,
+    heal_hit_points: 0,
+    effect_length: 0,
+    rechange_mana: 0,
+    armor_increase: 0,
+    effective_each_turn: false
+  }, {
+    name: "Drain",
+    mana: 73,
+    damage: 2,
+    heal_hit_points: 2,
+    effect_length: 0,
+    rechange_mana: 0,
+    armor_increase: 0,
+    effective_each_turn: false
+  }, {
+    name: "Shield",
+    mana: 113,
+    damage: 0,
+    heal_hit_points: 0,
+    effect_length: 6,
+    rechange_mana: 0,
+    armor_increase: 7,
+    effective_each_turn: false
+  }, {
+    name: "Poison",
+    mana: 173,
+    damage: 3,
+    heal_hit_points: 0,
+    effect_length: 6,
+    rechange_mana: 0,
+    armor_increase: 0,
+    effective_each_turn: true
+  }, {
+    name: "Recharge",
+    mana: 229,
+    damage: 3,
+    heal_hit_points: 0,
+    effect_length: 5,
+    rechange_mana: 101,
+    armor_increase: 0,
+    effective_each_turn: true
+  }
+]
