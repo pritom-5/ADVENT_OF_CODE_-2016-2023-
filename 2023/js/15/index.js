@@ -1,5 +1,5 @@
 /**
- * part 2 : 58482 : too low
+ * both part 1 and part 2 done
  */
 
 import fs from "fs";
@@ -7,14 +7,6 @@ import fs from "fs";
 // const i = "HASH"; // const i2 = "rn"; // const i3 = "cm-";
 // const a = new HashingInput(i2);
 // console.log(a.getHashingValue());
-
-// let total = 0;
-// import fs from "fs";
-// const input = fs.readFileSync("../../data/15/data.txt", "ascii").trim();
-// input.split(",").forEach((item) => {
-//   const x = new HashingInput(item);
-//   total += x.getHashingValue();
-// });
 
 class HashingInput {
   LIMIT = 256;
@@ -24,10 +16,7 @@ class HashingInput {
   constructor(input) {
     this.input = input;
   }
-  /**
-   *  @param {string} input
-   *  @returns {number}
-   */
+  /**  @param {string} input @returns {number} */
   getHashingValue() {
     let total = 0;
 
@@ -44,13 +33,21 @@ class HashingInput {
     return total;
   }
 }
+/**
+ * @typedef {string} LensLabelT
+ * @typedef {number} LensFocusT
+ * @typedef {[LensLabelT, LensFocusT]} LensT*/
 
 class Box {
+  /** @type {Array<LensT>} */
   lens = [];
+
+  /** @param {LensFocusT} no  */
   constructor(no) {
     this.no = +no;
   }
 
+  /** @param {LensLabelT} lens_label  @returns {number} -1 if item not found and index value if found */
   #getExistingLens(lens_label) {
     // check if lens in box
     const lens_index = this.lens.findIndex(
@@ -59,7 +56,7 @@ class Box {
     return lens_index;
   }
 
-  /** @param {string} lens_label  */
+  /** @param {LensLabelT} lens_label  @returns {number} */
   findValueForSpecificLensLabel(lens_label) {
     const lens_idx = this.#getExistingLens(lens_label);
 
@@ -74,13 +71,9 @@ class Box {
     return box_value * idx_value * lens_value;
   }
 
-  // on =
-  /** @param {string} lens_label  @param {number} focus */
+  /** @param {LensLabelT} lens_label  @param {LensFocusT} focus */
   addLens(lens_label, focus) {
     const lens_index = this.#getExistingLens(lens_label);
-
-    // remove
-    // console.log(lens_index);
 
     if (lens_index !== -1) {
       this.lens[lens_index] = [lens_label, focus];
@@ -89,9 +82,8 @@ class Box {
     }
   }
 
-  // on -
+  /** @param {LensLabelT} lens_label  */
   removeLens(lens_label) {
-    // remove and push other lens
     if (this.#getExistingLens(lens_label) !== -1) {
       this.lens = this.lens.filter(([label, _]) => label !== lens_label);
     }
@@ -106,20 +98,24 @@ function initialize_boxes() {
     BOXES[i] = new Box(i);
   }
 }
-initialize_boxes();
+
+////////////////////////////////////////////////////
 
 /** @returns {Array<string>} */
 function assignLensIntoBox() {
-  /** @type {Set<stirng>} */
+  /** @type {Set<string>} */
   const list_of_labels = new Set();
 
   const input = fs.readFileSync("../../data/15/data.txt", "ascii").trim();
   // const input = fs.readFileSync("../../data/15/ex.txt", "ascii").trim();
-  input.split(",").forEach((item) => {
-    //    console.log(item);
-    const label = item.slice(0, 2);
-    const operation = item[2];
 
+  // loop through each input element
+  input.split(",").forEach((item) => {
+    // extract label and operator
+    const label = item.match(/[a-zA-Z]+/)[0];
+    const operation = item.match(/[-|=]/)[0];
+
+    // get all the labels
     list_of_labels.add(label);
 
     // get box number using HASH
@@ -128,12 +124,10 @@ function assignLensIntoBox() {
 
     switch (operation) {
       case "-":
-        // operate on the box
         BOXES[`${box_no}`].removeLens(label);
         break;
       case "=":
-        // extract focus
-        const focus = +item[3];
+        const focus = +item.match(/[0-9]/)[0];
         // operate on the box
         BOXES[`${box_no}`].addLens(label, focus);
         break;
@@ -142,6 +136,8 @@ function assignLensIntoBox() {
   return Array.from(list_of_labels);
 }
 
+////////////////////////////////////////////////////
+
 function getTotalValue(list_of_labels) {
   let total = 0;
 
@@ -149,19 +145,30 @@ function getTotalValue(list_of_labels) {
     Object.values(BOXES).forEach((box) => {
       total += box.findValueForSpecificLensLabel(label);
     });
-
-    // console.log(label, "----------", total);
   });
 
   console.log(total);
 }
 
-//////////////////////
-function main() {
+function getResultPart1() {
   let total = 0;
+  const input = fs.readFileSync("../../data/15/data.txt", "ascii").trim();
+  input.split(",").forEach((item) => {
+    const x = new HashingInput(item);
+    total += x.getHashingValue();
+  });
+  console.log(total);
+}
+
+function getResultPart2() {
+  initialize_boxes();
   const list_of_labels = assignLensIntoBox();
   getTotalValue(list_of_labels);
-  // console.log(list_of_labels);
+}
+
+//////////////////////
+function main() {
+  // getResultPart2();
+  // getResultPart1();
 }
 main();
-// console.log(BOXES);
