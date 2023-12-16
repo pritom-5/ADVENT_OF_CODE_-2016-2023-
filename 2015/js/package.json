@@ -1,0 +1,11 @@
+{
+  "name": "2015/js",
+  "module": ".",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
