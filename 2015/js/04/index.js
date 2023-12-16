@@ -15,11 +15,24 @@ class GetHash {
 
   /** @param {string} hash @returns {boolean} */
   static checkForFiveZeros(hash) {
-    return;
+    return hash.slice(0, 5) === "00000";
+  }
+
+  /** @param {string} hash @returns {boolean} */
+  static checkForSixZeros(hash) {
+    return hash.slice(0, 6) === "000000";
   }
 }
 
 // const INPUT = "ABC";
 const INPUT = "ckczppom";
-const a = new GetHash(INPUT);
-console.log(a.getHash());
+
+for (let i = 0; true; i++) {
+  //   console.log(i);
+  const a = new GetHash(`${INPUT}${i}`);
+  const new_hash = a.getHash();
+  if (GetHash.checkForSixZeros(new_hash)) {
+    console.log(i);
+    break;
+  }
+}
