@@ -33,7 +33,7 @@ class LightGrid {
     this.#sortLights();
     this.mergeArray();
 
-    this.#printLights();
+    //  this.#printLights();
   }
 
   turnOff(from, to) {
@@ -75,42 +75,74 @@ class LightGrid {
       ];
     }
 
-    this.#printLights();
+    //   this.#printLights();
   }
 
   toggle(from, to) {
-    // can't figure out how to toggle interval easily
+    for (let i = from; i <= to; ) {
+      const isInIntervalIndex = this.lights.findIndex(
+        (item) => i >= item[0] && i <= item[1]
+      );
 
-    // loop through every interval check this three condition
-    // --------         --------------               ----------
-    //     -------          ------              ----------
-
-    // make a list of from tos to turn on lights based on difference
-
-    this.lights.forEach((item) => {
-      // fully covered
-      if (from <= item[0] && to >= item[1]) {
-        // turn whole block off
-      } else if (item[0] < from && item[1] < to) {
-        // left lobbed
-        // turn from to item[1] off
-      } else if (item[0] > from && item[1] > to) {
-        // right logged
-        // turn item[0] to to off
+      if (isInIntervalIndex !== -1) {
+        const end = this.lights[isInIntervalIndex][1];
+        this.turnOff(i, Math.min(this.lights[isInIntervalIndex][1], to));
+        i = end + 1;
+      } else {
+        const nextIntervalIndex = this.lights.findIndex((item) => i < item[0]);
+        const nextStart = this.lights[nextIntervalIndex][0];
+        this.turnOn(i, Math.min(this.lights[nextIntervalIndex][0] - 1, to));
+        i = nextStart;
       }
-    });
+    }
 
-    console.log("lits_to_off", lits_to_off);
+    //    this.#printLights();
   }
 }
 
-const a = new LightGrid();
-a.turnOn(10, 20);
-a.turnOn(15, 22);
-a.turnOn(5, 22);
-a.turnOn(15, 25);
-a.turnOn(2, 4);
+// const a = new LightGrid();
+// a.turnOn(10, 20);
+// a.turnOn(15, 22);
+// a.turnOn(5, 22);
+// a.turnOn(15, 25);
+// a.turnOn(2, 4);
 
-a.turnOff(7, 12);
+// a.turnOff(7, 12);
 
-a.toggle(5, 14);
+// // a.toggle(5, 14);
+// a.toggle(5, 13);
+
+import fs from "fs";
+
+const input_arr = fs
+  // .readFileSync("../../data/06/data.txt", "ascii")
+  .readFileSync("../../data/06/ex.txt", "ascii")
+  .trim()
+  .split("\n");
+
+const lights = new LightGrid();
+
+input_arr.forEach((line) => {
+  const [ins, from, through, to] = line.split(" ");
+
+  switch (ins) {
+    case "on":
+      {
+        lights.turnOn(+from, +to);
+      }
+      break;
+    case "off":
+      {
+        lights.turnOff(+from, +to);
+      }
+      break;
+    case "toggle":
+      {
+        lights.toggle(+from, +to);
+      }
+      break;
+
+    default:
+      break;
+  }
+});
