@@ -1,15 +1,21 @@
+// do it from scratch
 class LightGrid {
-  MAX_COL = 10;
-  MAX_ROW = 10;
   lights = {};
+  LIGHT_STATE = {
+    on: 1,
+    off: 0,
+  };
 
-  constructor() {
+  constructor(max_col = 9, max_row = 9) {
+    this.MAX_COL = max_col;
+    this.MAX_ROW = max_row;
+
     this.#populateLights();
   }
 
   #populateLights() {
-    for (let i = 0; i < this.MAX_ROW; i++) {
-      this.lights[i] = [];
+    for (let i = 0; i <= this.MAX_ROW; i++) {
+      this.lights[i] = new Array(this.MAX_COL + 1).fill(0);
     }
   }
 
@@ -17,7 +23,9 @@ class LightGrid {
    * @param {[number, number]} from
    * @param {[number, number]} to
    */
-  add(from, to) {
+  turnOn(from, to) {
+    // console.log("turnon: ", from, to);
+
     const row_start = from[1];
     const row_end = to[1];
     const col_start = from[0];
@@ -28,40 +36,28 @@ class LightGrid {
       const max_col = row_end === r ? col_end : this.MAX_COL;
 
       for (let c = min_col; c <= max_col; c++) {
-        if (!this.lights[r].includes(c)) {
-          this.lights[r].push(c);
-        }
+        this.lights[r][c] = this.LIGHT_STATE.on;
       }
-
-      this.#sortArr(r);
     }
-  }
-
-  #filterOutInvalidLights(row_idx) {
-    this.lights[row_idx] = this.lights[row_idx].filter((item) => item !== -1);
   }
 
   /**
    * @param {[number, number]} from
    * @param {[number, number]} to
    */
-  remove(from, to) {
-    for (let r = from[1]; r <= to[1]; r++) {
-      const row_start = from[1];
-      const row_end = to[1];
-      const col_start = from[0];
-      const col_end = to[0];
+  turnOff(from, to) {
+    const row_start = from[1];
+    const row_end = to[1];
+    const col_start = from[0];
+    const col_end = to[0];
 
+    for (let r = row_start; r <= row_end; r++) {
       const min_col = row_start === r ? col_start : 0;
       const max_col = row_end === r ? col_end : this.MAX_COL;
 
-      for (let j = 0; j <= this.lights[r].length; j++) {
-        if (this.lights[r][j] >= min_col && this.lights[r][j] <= max_col) {
-          this.lights[r][j] = -1;
-        }
+      for (let c = min_col; c <= max_col; c++) {
+        this.lights[r][c] = this.LIGHT_STATE.off;
       }
-
-      this.#filterOutInvalidLights(r);
     }
   }
 
@@ -76,15 +72,27 @@ class LightGrid {
       const max_col = row_end === r ? col_end : this.MAX_COL;
 
       for (let c = min_col; c <= max_col; c++) {
-        if (!this.lights[r].includes(c)) {
-          this.lights[r].push(c);
-        }
+        this.lights[r][c] =
+          this.lights[r][c] === this.LIGHT_STATE.off
+            ? this.LIGHT_STATE.on
+            : this.LIGHT_STATE.off;
       }
-
-      this.#sortArr(r);
     }
+  }
 
-    this.#filterOutInvalidLights(r);
+  getNosLightOn() {
+    let total = 0;
+
+    Object.values(this.lights).forEach((item) => {
+      item.forEach((num) => {
+        if (num === this.LIGHT_STATE.on) {
+          total++;
+        }
+      });
+    });
+
+    console.log(total);
+    return total;
   }
 
   #sortArr(row_idx) {
@@ -96,11 +104,65 @@ class LightGrid {
   }
 }
 
-// [x, y] [x1, y1]
-const a = new LightGrid();
-a.add([2, 3], [4, 4]);
-a.add([0, 3], [9, 4]);
+function test() {
+  const a = new LightGrid();
+  a.turnOn([2, 3], [4, 4]);
+  a.turnOn([0, 3], [9, 4]);
 
-a.remove([4, 3], [5, 4]);
+  a.print();
+  a.turnOff([4, 3], [5, 4]);
 
-a.print();
+  a.print();
+  a.toggle([1, 3], [7, 4]);
+
+  a.print();
+
+  a.getNosLightOn();
+}
+// test();
+
+import fs from "fs";
+
+function main() {
+  const input_arr = fs
+    .readFileSync("../../data/06/data.txt", "ascii")
+    // .readFileSync("../../data/06/ex.txt", "ascii")
+    .trim()
+    .split("\n");
+
+  const lights = new LightGrid(999, 999);
+
+  input_arr.forEach((line) => {
+    const [ins, from, through, to] = line.split(" ");
+
+    // console.log("main: ", ins, from, to);
+
+    const from_arr = from.split(",").map((item) => parseInt(item));
+    const to_arr = to.split(",").map((item) => parseInt(item));
+
+    switch (ins) {
+      case "on":
+        {
+          lights.turnOn(from_arr, to_arr);
+        }
+        break;
+      case "off":
+        {
+          lights.turnOff(from_arr, to_arr);
+        }
+        break;
+      case "toggle":
+        {
+          lights.toggle(from_arr, to_arr);
+        }
+        break;
+
+      default:
+        break;
+    }
+  });
+
+  lights.getNosLightOn();
+}
+
+main();
