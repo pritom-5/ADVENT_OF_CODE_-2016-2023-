@@ -25,16 +25,16 @@ class Lights {
   }
 
   private turnon(light_point: PointT) {
-    this.LIGHTS[light_point[1]][light_point[0]] = this.Light_state.on;
+    this.LIGHTS[light_point[0]][light_point[1]] = this.Light_state.on;
   }
 
   private turnoff(light_point: PointT) {
-    this.LIGHTS[light_point[1]][light_point[0]] = this.Light_state.off;
+    this.LIGHTS[light_point[0]][light_point[1]] = this.Light_state.off;
   }
 
   private toggle(light_point: PointT) {
-    const current_state = this.LIGHTS[light_point[1]][light_point[0]];
-    this.LIGHTS[light_point[1]][light_point[0]] =
+    const current_state = this.LIGHTS[light_point[0]][light_point[1]];
+    this.LIGHTS[light_point[0]][light_point[1]] =
       current_state === this.Light_state.on
         ? this.Light_state.off
         : this.Light_state.on;
@@ -74,7 +74,7 @@ class Lights {
         }
       }
     }
-    // this.print();
+    this.print();
   }
 
   public totalNosLights() {
@@ -87,7 +87,6 @@ class Lights {
       });
     });
 
-    // console.log(this.LIGHTS);
     console.log(total);
   }
   private print() {
@@ -99,7 +98,6 @@ function parseInput(input: string[], l: Lights) {
     const [action, from, _, to] = line.split(" ");
     const from_cor = from.split(",").map((item) => parseInt(item)) as PointT;
     const to_cor = to.split(",").map((item) => parseInt(item)) as PointT;
-    // l.brain(from_cor, to_cor, action as ActionT);
     l.brain(from_cor, to_cor, action as ActionT);
   });
 
@@ -121,12 +119,7 @@ function main() {
 
 function test() {
   const l = new Lights(10, 10);
-  const input_test = [
-    "on 0,5 through 5,5\n",
-    "off 0,0 through 9,9\n",
-    "toggle 4,0 through 5,9\n",
-    "toggle 6,0 through 9,9",
-  ];
+  const input_test = ["toggle 1,5 through 9,9", "on 1,5 through 9,9"];
   parseInput(input_test, l);
 }
 

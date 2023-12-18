@@ -1,139 +1,114 @@
-import fs from "fs";
-
-// const PATH_FILE = "../../../data/07/ex.txt";
-// const data = fs.readFileSync(PATH_FILE, "ascii");
-
-const INPUT = `x LSHIFT 2 -> f
-x AND y -> d
-123 -> x
-y RSHIFT 2 -> g
+const input = `123 -> x
 456 -> y
-NOT x -> h
+x AND y -> d
 x OR y -> e
+x LSHIFT 2 -> f
+y RSHIFT 2 -> g
+NOT x -> h
 NOT y -> i`;
 
-type SourceT = {
-  operation: "LSHIFT" | "RSHIFT" | "OR" | "NOT" | "AND";
-  instruction: string;
+class Buck {
+  instructions: string[] = [];
+  value: number | undefined = undefined;
+
+  constructor(private name: string, ins: string) {
+    this.name = name;
+    this.instructions.push(ins);
+
+    this.getValue();
+  }
+
+  private getValue() {
+    if (this.instructions[0].split(" ").length === 1) {
+      this.value = parseInt(this.instructions[0]);
+    }
+  }
+
+  static getValuesFromInstruction(ins: string) {
+    if (ins.split(" ").length === 1) {
+      return { vars: [ins], action: "assign" };
+    }
+    // and or lshift rshift not
+    if (ins.includes("NOT")) {
+      const ins_items = ins.split(" ");
+      return { vars: [ins_items[1]], action: "NOT" };
+    } else {
+      const ins_items = ins.split(" ");
+      return { vars: [ins_items[0], ins_items[2]], action: ins_items[1] };
+    }
+  }
+
+  static getAndValue(...values: number[]) {
+    return values[0] & values[1];
+  }
+  static getOrValue(...values: number[]) {
+    return values[0] | values[1];
+  }
+  static getLshiftValue(...values: number[]) {
+    return values[0] << values[1];
+  }
+  static getRshiftValue(...values: number[]) {
+    return values[0] >> values[1];
+  }
+  static getNotValue(...values: number[]) {
+    return 65536 + ~values[0];
+  }
+}
+
+const ACTION = {
+  AND: Buck.getAndValue,
+  OR: Buck.getOrValue,
+  LSHIFT: Buck.getLshiftValue,
+  RSHIFT: Buck.getRshiftValue,
+  NOT: Buck.getNotValue,
 };
 
-type OperationsT = SourceT["operation"];
+const Bucks: Record<string, Buck> = {};
 
-class MyVariable {
-  name: string;
-  value: number | undefined;
-  instructions: SourceT[] = [];
-
-  constructor(name: string, value: number | undefined) {
-    this.name = name;
-    this.value = value;
-  }
-
-  addInstruction(
-    operation: SourceT["operation"],
-    instruction: SourceT["instruction"]
-  ) {
-    this.instructions.push({ operation, instruction });
-  }
-
-  overrideValue(value: number) {
-    this.value = value;
-  }
-}
-
-const VARIABLES: Record<string, MyVariable> = {};
-
-function getOperation(line: string) {
-  const re = /LSHIFT|RSHIFT|AND|NOT|OR/;
-  return line.match(re);
-}
-
-function parseInput(input: string) {
-  input.split("\n").forEach((item) => {
-    const bucket = item.split(" -> ")[1];
-    const instruction_str = item.split(" -> ")[0];
-
-    const operation = getOperation(instruction_str);
-    if (!operation) {
-      VARIABLES[bucket] = new MyVariable(
-        bucket,
-        parseInt(instruction_str.trim())
-      );
-    } else {
-      const tmp = new MyVariable(bucket, undefined);
-      VARIABLES[bucket] = tmp;
-      tmp.addInstruction(operation[0] as OperationsT, instruction_str);
-    }
+function parseInput(_input: string, target: string = "a") {
+  _input.split("\n").forEach((line) => {
+    const [ins, bucket] = line.split(" -> ");
+    const x = new Buck(bucket, ins);
+    Bucks[bucket] = x;
   });
+
+  const x = walk(target);
+  console.log(x);
 }
 
-parseInput(INPUT);
-console.log(VARIABLES);
+// parseInput(input);
 
-function followInstruction() {
-  for (let item of Object.values(VARIABLES)) {
-    walk(item);
+function walk(target: string): number {
+  if (!isNaN(Number(target))) {
+    return Number(target);
   }
+  if (Bucks[target] && Bucks[target].value) {
+    return Bucks[target].value as number;
+  }
+
+  const ins = Bucks[target].instructions[0];
+  const { vars, action } = Buck.getValuesFromInstruction(ins);
+
+  const result: number[] = [];
+
+  for (let _var of vars) {
+    const a = walk(_var);
+    result.push(a);
+  }
+
+  if (action === "assign") {
+    Bucks[target].value = result[0];
+  } else {
+    Bucks[target].value = ACTION[action](...result);
+  }
+
+  return 0;
 }
 
-class Operate {
-  static lshift(val1: number, val2: number) {
-    return val1 << val2;
-  }
-  static rshift(val1: number, val2: number) {
-    return val1 >> val2;
-  }
-  static and(val1: number, val2: number) {
-    return val1 & val2;
-  }
-  static or(val1: number, val2: number) {
-    return val1 | val2;
-  }
-  static not(val1: number) {
-    return 65534 - ~val1;
-  }
+import fs from "fs";
+const path = "../../../data/07/data.txt";
+function main() {
+  const _input = fs.readFileSync(path, "ascii");
+  parseInput(_input);
 }
-
-class ParseOperator {
-  static parseLshiftRshift(line: string) {
-    const words = line.split(" ");
-    return { from: words[0], value: +words[2] };
-  }
-  static parseAndOr(line: string) {
-    const words = line.split(" ");
-    return { v1: words[0], v2: words[2] };
-  }
-  static parseNot(line: string) {
-    return { v: line.split(" ")[1] };
-  }
-}
-
-function walk(item: MyVariable) {
-  if (item.instructions.length === 0) {
-    return;
-  }
-
-  const instruction = item.instructions[0].instruction;
-
-  switch (item.instructions[0].operation) {
-    case "LSHIFT":
-      const { from, value } = ParseOperator.parseLshiftRshift(instruction);
-      if (VARIABLES[from] && VARIABLES[from].value !== undefined) {
-        const v = VARIABLES[from].value!;
-        // todo: do it from here
-        Operate.lshift(v, value);
-      } else {
-      }
-      break;
-    case "RSHIFT":
-      break;
-    case "AND":
-      break;
-    case "NOT":
-      break;
-    case "OR":
-      break;
-    default:
-      break;
-  }
-}
+main();

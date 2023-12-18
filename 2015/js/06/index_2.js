@@ -1,4 +1,3 @@
-// do it from scratch
 class LightGrid {
   lights = {};
   LIGHT_STATE = {
