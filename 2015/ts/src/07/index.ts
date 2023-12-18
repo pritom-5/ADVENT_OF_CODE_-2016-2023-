@@ -1,3 +1,6 @@
+/**
+ * both part 1 and 2 correct
+ */
 const input = `123 -> x
 456 -> y
 x AND y -> d
@@ -102,11 +105,11 @@ function walk(target: string): number {
     Bucks[target].value = ACTION[action](...result);
   }
 
-  return 0;
+  return Bucks[target].value as number;
 }
 
 import fs from "fs";
-const path = "../../../data/07/data.txt";
+const path = "../../../data/07/data_02.txt";
 function main() {
   const _input = fs.readFileSync(path, "ascii");
   parseInput(_input);
