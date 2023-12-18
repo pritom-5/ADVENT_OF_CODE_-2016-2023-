@@ -1,4 +1,6 @@
-const input = `R 6 (#70c710)
+//  give up.
+// draw rectangles and figure out area in 2d grid
+const INPUT = `R 6 (#70c710)
 D 5 (#0dc571)
 L 2 (#5713f0)
 D 2 (#d2c081)
@@ -14,90 +16,63 @@ L 2 (#015232)
 U 2 (#7a21e3)`;
 
 class Trench {
-  TRENCH_ARR = { 0: { low: 0, high: 0 } }; // row: {low: , high: }
+  TRENCH_ARR = { 0: [0] }; // row: {low: , high: }
   prev_row = 0;
   prev_col = 0;
-  DIR = {
-    U: { r: -1, c: 0 },
-    D: { r: 1, c: 0 },
-    L: { r: 0, c: -1 },
-    R: { r: 0, c: 1 },
-  };
+  count = 0;
 
   constructor() {}
 
-  parseInput(line) {
-    const [dir, no, color] = line.split(" ");
+  addNumberToArr(row, col) {
+    if (!this.TRENCH_ARR[row]) {
+      this.TRENCH_ARR[row] = [];
+    }
 
-    switch (dir) {
-      case "U":
-        {
-          for (let i = 1; i <= +no; i++) {
-            if (this.TRENCH_ARR[this.prev_row - i]) {
-              const curr_low = this.TRENCH_ARR[this.prev_row - i].low;
-              this.TRENCH_ARR[this.prev_row - i].low = Math.min(
-                this.prev_col,
-                curr_low
-              );
-              const curr_high = this.TRENCH_ARR[this.prev_row - i].high;
-              this.TRENCH_ARR[this.prev_row - i].low = Math.max(
-                this.prev_col,
-                curr_high
-              );
-            } else {
-              this.TRENCH_ARR[this.prev_row + i] = {
-                low: this.prev_col,
-                high: this.prev_col,
-              };
-            }
-          }
-          this.prev_row -= +no;
-        }
-        break;
-      case "D":
-        {
-          for (let i = 1; i <= +no; i++) {
-            if (this.TRENCH_ARR[this.prev_row + i]) {
-              const curr_low = this.TRENCH_ARR[this.prev_row + i].low;
-              this.TRENCH_ARR[this.prev_row + i].low = Math.min(
-                this.prev_col,
-                curr_low
-              );
+    this.TRENCH_ARR[row].push(col);
+  }
 
-              const curr_high = this.TRENCH_ARR[this.prev_row + i].high;
-              this.TRENCH_ARR[this.prev_row + i].low = Math.max(
-                this.prev_col,
-                curr_high
-              );
-            } else {
-              this.TRENCH_ARR[this.prev_row + i] = {
-                low: this.prev_col,
-                high: this.prev_col,
-              };
-            }
-          }
-          this.prev_row += +no;
-        }
-        break;
-      case "L":
-        {
-          this.TRENCH_ARR[this.prev_row].low -= +no;
-          this.prev_col -= +no;
-        }
-        break;
-      case "R":
-        {
-          this.TRENCH_ARR[this.prev_row].high += +no;
-          this.prev_col += +no;
-        }
-        break;
+  sortArr() {
+    Object.values(this.TRENCH_ARR).forEach((line, l_ix) => {
+      this.TRENCH_ARR[l_ix] = line.sort((a, b) => a > b);
+    });
+  }
 
-      default:
-        break;
+  getCount(row) {
+    if (this.TRENCH_ARR[row].length == 2) {
+      this.count += Math.abs(this.TRENCH_ARR[row][0] - this.TRENCH_ARR[row][1]);
+      this.TRENCH_ARR[row].pop();
+      this.TRENCH_ARR[row].pop();
     }
   }
 
-  print() {
+  parseInput(line) {
+    let [dir, no] = line.split(" ");
+    no = Number(no);
+
+    if (dir === "U") {
+      for (let i = 1; i <= no; i++) {
+        this.addNumberToArr(this.prev_row - i, this.prev_col);
+      }
+      this.prev_row -= no;
+    } else if (dir === "D") {
+      for (let i = 1; i <= no; i++) {
+        this.addNumberToArr(i + this.prev_row, this.prev_col);
+      }
+      this.prev_row += no;
+    } else if (dir === "L") {
+      this.addNumberToArr(this.prev_row, this.prev_col - no);
+      this.prev_col -= no;
+    } else if (dir === "R") {
+      this.addNumberToArr(this.prev_row, this.prev_col + no);
+      this.prev_col += no;
+    }
+
+    this.print(line);
+  }
+
+  print(line) {
+    console.log(line);
+    console.log("prev_row: ", this.prev_row, "prev_col: ", this.prev_col);
     console.log(this.TRENCH_ARR);
   }
 }
@@ -111,7 +86,15 @@ function parse(_input) {
       a.parseInput(item);
     });
 
-  a.print();
+  console.log(a.TRENCH_ARR);
 }
 
-parse(input);
+// parse(INPUT);
+
+import fs from "fs";
+const path = "../../data/18/data.txt";
+function main() {
+  const input = fs.readFileSync(path, "ascii").trim();
+  parse(input);
+}
+main();
