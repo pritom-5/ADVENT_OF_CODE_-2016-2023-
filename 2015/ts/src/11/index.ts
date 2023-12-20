@@ -43,6 +43,7 @@ class Password {
       l++;
       h++;
     }
+
     return false;
   }
 
@@ -121,6 +122,7 @@ const b = "abbceffg";
 const c = "abd";
 const d = "hxbxwxba";
 const e = "hxbxxyzz";
+
 const p = new Password(e);
 p.addExpiredPassword(e);
 console.log(p.findNewPassword());
